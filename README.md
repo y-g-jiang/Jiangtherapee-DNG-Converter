@@ -2,7 +2,7 @@
 
 JDC does not yet fully support all cameras. If you would like to contribute support for more cameras, please use CONTRIBUTING.md in this repository to guide your pull request.
 
-## SupportMe
+## Support Me
 
 https://github.com/y-g-jiang/Support_Me_QR_Code
 
