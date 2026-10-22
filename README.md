@@ -1,44 +1,6 @@
-# Jiangtherapee DNG Converter (JDC)
-
-Independent Windows RAW-to-DNG ingress by y-g-jiang. JDN uses an existing DNG directly and calls JDC for native camera RAW inputs.
-
-## Run
-
-Windows x64, Python 3.10+, NumPy, Pillow, and the Microsoft Visual C++ 2015-2022 x64 runtime are required. Install dependencies:
-
-    python -m pip install -r requirements.txt
-    python -B tools/convert.py "E:/Photos/input.RW2" -o "E:/Photos/DNG" --scratch "E:/Temp/jdc"
-
-A directory is also accepted. --jobs defaults to 1. Existing outputs and duplicate output names are refused. Scratch files are removed after each conversion. The original RAW is never modified. The camera database is distributed as ref/camera_db.json.gz and read directly without an expanded disk copy. The native decoder is located relative to this package, or via JDC_LIBRAW_DLL.
-
-The standalone path uses the RAW and bundled camera records, renders its own preview, and calls the included DNG writer. It does not start Adobe DNG Converter or read an ADC-generated reference image. Output Software is **Jiangtherapee DNG Converter 1.0 (JDC)**.
-
-## JDN integration
-
-The input recommendation links the colored **ADC** text to [Adobe's official DNG Converter page](https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html). JDN does not inspect Software tags to decide whether Adobe made a DNG.
-
-- Existing DNG, including ADC output: use directly and retain its metadata shell around the processed image.
-- Native camera RAW: use JDC first, then JDN, retaining as much of the resulting DNG shell as supported.
-- Existing DNG files are never reconverted solely because an ADC/JDC Software marker is absent.
-- Linear RGB DNG is rejected as a RAW input.
-
-JDN can bundle this directory as resources/JDC, or use JDN_JDC_HOME. The Python API is tools/jdc_api.py:convert_one. Missing camera records and unsupported layouts fail clearly; no silent Adobe-process fallback. JDN retains its temporary converted DNG until metadata-shell export has completed, then removes it.
-
-## Scope and limitations
-
-This is not a universal replacement with complete Adobe metadata equivalence. Some lens-specific warp generation, Panasonic private data, Fuji per-file EXIF, and other metadata remain incomplete. The historic camera table below describes its recorded corpus, not a fresh qualification of every camera in this packaging update. For ADC's metadata coverage, supply an ADC-converted DNG.
-
-This integration was checked on one Panasonic S5II ISO100 exposure-ladder sample: all 6008 x 4008 CFA samples matched its existing ADC output, and JDN's lens-opcode/metadata-shell verifier passed on that sample. No new denoising inference or full-corpus benchmark is claimed by that check.
-
-## Components
-
-The src directory contains writer/support sources. The supplied dngbuild.exe uses Adobe DNG SDK 1.7.1 and its XMP/JPEG components; this is an SDK-based writer, not the Adobe Converter application. The srhq_joraw2.dll decoder uses LibRaw 0.22.2 with a Nikon HE patch. See THIRD_PARTY.md, licenses, and bin/srhq_joraw2-build.json. Upstream SDK/toolchain trees are not bundled; a one-command clean-machine native rebuild is not claimed.
-
----
-
-## Previously published support table
-
 # Jiangtherapee-DNG-Converter
+
+JDC does not yet fully support all cameras. If you would like to contribute support for more cameras, please use CONTRIBUTING.md in this repository to guide your pull request.
 
 ## SupportMe
 
