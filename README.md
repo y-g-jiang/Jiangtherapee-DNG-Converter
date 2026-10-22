@@ -1,6 +1,6 @@
 # Jiangtherapee DNG Converter (JDC)
 
-Independent Windows RAW-to-DNG ingress by y-g-jiang. JDN can call JDC when the input is not identified as an Adobe DNG Converter (ADC) mosaic DNG.
+Independent Windows RAW-to-DNG ingress by y-g-jiang. JDN uses an existing DNG directly and calls JDC for native camera RAW inputs.
 
 ## Run
 
@@ -15,11 +15,11 @@ The standalone path uses the RAW and bundled camera records, renders its own pre
 
 ## JDN integration
 
-The input recommendation links the colored **ADC** text to [Adobe's official DNG Converter page](https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html). ADC-origin recognition uses DNGVersion and Software: metadata identification, not authenticated provenance.
+The input recommendation links the colored **ADC** text to [Adobe's official DNG Converter page](https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html). JDN does not inspect Software tags to decide whether Adobe made a DNG.
 
-- ADC-tagged mosaic DNG: use directly.
-- JDC-tagged mosaic DNG: use without repeating conversion.
-- Other camera RAW/DNG: use JDC first, then JDN.
+- Existing DNG, including ADC output: use directly and retain its metadata shell around the processed image.
+- Native camera RAW: use JDC first, then JDN, retaining as much of the resulting DNG shell as supported.
+- Existing DNG files are never reconverted solely because an ADC/JDC Software marker is absent.
 - Linear RGB DNG is rejected as a RAW input.
 
 JDN can bundle this directory as resources/JDC, or use JDN_JDC_HOME. The Python API is tools/jdc_api.py:convert_one. Missing camera records and unsupported layouts fail clearly; no silent Adobe-process fallback. JDN retains its temporary converted DNG until metadata-shell export has completed, then removes it.
