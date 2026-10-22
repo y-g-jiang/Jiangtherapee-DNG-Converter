@@ -1,0 +1,399 @@
+brand,model,name,sensor_id,link,launch_date,launch_price_usd,segment,sensor_format,pixel_depth_mp,dxo_score,color_depth_bits,dynamic_range_ev,low_light_iso,ptc_points,ptc_csv
+Canon, EOS-1D X Mark II,Canon  EOS-1D X Mark II,1071,/Cameras/Canon/-EOS-1D-X-Mark-II,2016-02-02,6000,professional,Full Frame,20.2,88,24.1,13.5,3207,3492,ptc/Canon_EOS_1D_X_Mark_II.csv
+Canon, EOS-1D X Mark III,Canon  EOS-1D X Mark III,1352,/Cameras/Canon/-EOS-1D-X-Mark-III,2020-01-07,6500,professional,Full Frame,20.1,91,24.2,14.5,3248,3734,ptc/Canon_EOS_1D_X_Mark_III.csv
+Canon,EOS 1000D,Canon EOS 1000D,270,/Cameras/Canon/EOS-1000D,2008-06-10,540,entryleveldslr,APS-C,10.1,62,22,10.9,719,1188,ptc/Canon_EOS_1000D.csv
+Canon,EOS 100D,Canon EOS 100D,871,/Cameras/Canon/EOS-100D,2013-03-21,650,entryleveldslr,APS-C,18,63,21.8,11.3,843,2268,ptc/Canon_EOS_100D.csv
+Canon,EOS 10D,Canon EOS 10D,437,/Cameras/Canon/EOS-10D,2003-02-27,347,semiprodslr,APS-C,6.3,57,21.1,10.9,571,1183,ptc/Canon_EOS_10D.csv
+Canon,EOS 1100D,Canon EOS 1100D,693,/Cameras/Canon/EOS-1100D,2011-02-07,599,entryleveldslr,APS-C,12.2,62,21.9,11,755,1771,ptc/Canon_EOS_1100D.csv
+Canon,EOS 1200D,Canon EOS 1200D,940,/Cameras/Canon/EOS-1200D,2014-02-12,500,entryleveldslr,APS-C,18,63,21.9,11.3,724,2020,ptc/Canon_EOS_1200D.csv
+Canon,EOS 1300D,Canon EOS 1300D,1094,/Cameras/Canon/EOS-1300D,2016-03-10,550,entryleveldslr,APS-C,18,66,22,11.7,781,2020,ptc/Canon_EOS_1300D.csv
+Canon,EOS 1D Mark II,Canon EOS 1D Mark II,431,/Cameras/Canon/EOS-1D-Mark-II,2004-01-29,1700,professional,APS-H,8.2,66,22.3,11.1,1003,1422,ptc/Canon_EOS_1D_Mark_II.csv
+Canon,EOS 1D Mark II N,Canon EOS 1D Mark II N,435,/Cameras/Canon/EOS-1D-Mark-II-N,2005-08-22,5986,professional,APS-H,8.2,66,22.3,11.2,975,1424,ptc/Canon_EOS_1D_Mark_II_N.csv
+Canon,EOS 1D Mark III,Canon EOS 1D Mark III,434,/Cameras/Canon/EOS-1D-Mark-III,2007-02-22,4050,professional,APS-H,10.1,71,22.7,11.7,1078,1664,ptc/Canon_EOS_1D_Mark_III.csv
+Canon,EOS 1D Mark IV,Canon EOS 1D Mark IV,629,/Cameras/Canon/EOS-1D-Mark-IV,2009-10-20,5840,professional,APS-H,16.1,74,22.8,12,1320,3018,ptc/Canon_EOS_1D_Mark_IV.csv
+Canon,EOS 1Ds,Canon EOS 1Ds,516,/Cameras/Canon/EOS-1Ds,2002-09-24,2700,professional,Full Frame,11,63,21.8,11,954,1179,ptc/Canon_EOS_1Ds.csv
+Canon,EOS 1Ds Mark II,Canon EOS 1Ds Mark II,191,/Cameras/Canon/EOS-1Ds-Mark-II,2004-09-21,6950,professional,Full Frame,16.6,74,23.3,11.3,1480,1424,ptc/Canon_EOS_1Ds_Mark_II.csv
+Canon,EOS 1Ds Mark III,Canon EOS 1Ds Mark III,436,/Cameras/Canon/EOS-1Ds-Mark-III,2007-08-20,7100,professional,Full Frame,21.1,80,24,12,1663,1425,ptc/Canon_EOS_1Ds_Mark_III.csv
+Canon,EOS 1Dx,Canon EOS 1Dx,753,/Cameras/Canon/EOS-1Dx,2011-10-18,6800,professional,Full Frame,18.1,82,23.8,11.8,2786,2994,ptc/Canon_EOS_1Dx.csv
+Canon,EOS 2000D,Canon EOS 2000D,1233,/Cameras/Canon/EOS-2000D,2018-02-26,550,entryleveldslr,APS-C,24.1,71,22.6,11.9,1009,2021,ptc/Canon_EOS_2000D.csv
+Canon,EOS 200D,Canon EOS 200D,1171,/Cameras/Canon/EOS-200D,2017-06-29,550,entryleveldslr,APS-C,24.2,79,23.6,13.4,1041,2515,ptc/Canon_EOS_200D.csv
+Canon,EOS 20D,Canon EOS 20D,281,/Cameras/Canon/EOS-20D,2004-08-19,700,semiprodslr,APS-C,8.2,62,21.9,11,721,1426,ptc/Canon_EOS_20D.csv
+Canon,EOS 300D,Canon EOS 300D,182,/Cameras/Canon/EOS-300D,2003-08-20,324,entryleveldslr,APS-C,6.3,55,21,10.8,544,1183,ptc/Canon_EOS_300D.csv
+Canon,EOS 30D,Canon EOS 30D,179,/Cameras/Canon/EOS-30D,2006-02-21,738,semiprodslr,APS-C,8.2,59,21.5,10.8,736,1427,ptc/Canon_EOS_30D.csv
+Canon,EOS 350D,Canon EOS 350D,183,/Cameras/Canon/EOS-350D,2005-02-17,560,entryleveldslr,APS-C,8,60,21.8,10.8,637,1189,ptc/Canon_EOS_350D.csv
+Canon,EOS 4000D,Canon EOS 4000D,1234,/Cameras/Canon/EOS-4000D,2018-02-26,400,entryleveldslr,APS-C,18,63,21.9,11.4,695,2020,ptc/Canon_EOS_4000D.csv
+Canon,EOS 400D,Canon EOS 400D,184,/Cameras/Canon/EOS-400D,2006-08-24,520,entryleveldslr,APS-C,10.1,62,22.1,11,664,1188,ptc/Canon_EOS_400D.csv
+Canon,EOS 40D,Canon EOS 40D,180,/Cameras/Canon/EOS-40D,2007-08-20,899,semiprodslr,APS-C,10.1,64,22.1,11.3,703,1425,ptc/Canon_EOS_40D.csv
+Canon,EOS 450D,Canon EOS 450D,185,/Cameras/Canon/EOS-450D,2008-01-24,570,entryleveldslr,APS-C,12.2,61,21.9,10.8,692,1189,ptc/Canon_EOS_450D.csv
+Canon,EOS 500D,Canon EOS 500D,586,/Cameras/Canon/EOS-500D,2009-03-25,1040,"entryleveldslr, semiprodslr",APS-C,15.1,63,21.7,11.5,663,2028,ptc/Canon_EOS_500D.csv
+Canon,EOS 50D,Canon EOS 50D,272,/Cameras/Canon/EOS-50D,2008-08-26,1300,semiprodslr,APS-C,15.1,63,21.8,11.4,696,1650,ptc/Canon_EOS_50D.csv
+Canon,EOS 550D,Canon EOS 550D,645,/Cameras/Canon/EOS-550D,2010-02-26,1000,"entryleveldslr, semiprodslr",APS-C,18,66,22.1,11.5,784,2028,ptc/Canon_EOS_550D.csv
+Canon,EOS 550D pre production,Canon EOS 550D pre production,636,/Cameras/Canon/EOS-550D-pre-production,2010-02-08,900,"entryleveldslr, semiprodslr ",APS-C,18,66,22,11.6,807,2027,ptc/Canon_EOS_550D_pre_production.csv
+Canon,EOS 5D,Canon EOS 5D,176,/Cameras/Canon/EOS-5D,2005-08-22,2000,"semiprodslr, professional",Full Frame,12.7,71,22.9,11.1,1368,1427,ptc/Canon_EOS_5D.csv
+Canon,EOS 5D Mark II,Canon EOS 5D Mark II,483,/Cameras/Canon/EOS-5D-Mark-II,2008-09-17,2199,semiprodslr,Full Frame,21,79,23.7,11.9,1815,2126,ptc/Canon_EOS_5D_Mark_II.csv
+Canon,EOS 5D Mark III,Canon EOS 5D Mark III,795,/Cameras/Canon/EOS-5D-Mark-III,2012-03-02,3499,semiprodslr,Full Frame,22.3,81,24,11.7,2293,3006,ptc/Canon_EOS_5D_Mark_III.csv
+Canon,EOS 5D Mark IV,Canon EOS 5D Mark IV,1106,/Cameras/Canon/EOS-5D-Mark-IV,2016-08-25,3500,professional,Full Frame,30.4,91,24.8,13.6,2995,3006,ptc/Canon_EOS_5D_Mark_IV.csv
+Canon,EOS 5DS,Canon EOS 5DS,1008,/Cameras/Canon/EOS-5DS,2015-02-06,3700,semiprodslr,Full Frame,50.6,87,24.7,12.4,2381,2268,ptc/Canon_EOS_5DS.csv
+Canon,EOS 5DS R,Canon EOS 5DS R,1009,/Cameras/Canon/EOS-5DS-R,2015-02-06,3900,semiprodslr,Full Frame,50.6,86,24.6,12.4,2308,2267,ptc/Canon_EOS_5DS_R.csv
+Canon,EOS 600D,Canon EOS 600D,692,/Cameras/Canon/EOS-600D,2011-02-07,850,"entryleveldslr, semiprodslr",APS-C,18,65,22.1,11.5,793,2020,ptc/Canon_EOS_600D.csv
+Canon,EOS 60D,Canon EOS 60D,663,/Cameras/Canon/EOS-60D,2010-08-26,1199,semiprodslr,APS-C,18,66,22.2,11.5,813,2027,ptc/Canon_EOS_60D.csv
+Canon,EOS 650D,Canon EOS 650D,813,/Cameras/Canon/EOS-650D,2012-06-08,899,entryleveldslr,APS-C,18,62,21.7,11.2,722,2268,ptc/Canon_EOS_650D.csv
+Canon,EOS 6D,Canon EOS 6D,836,/Cameras/Canon/EOS-6D,2012-09-17,2099,semiprodslr,Full Frame,20.2,82,23.8,12.1,2340,2751,ptc/Canon_EOS_6D.csv
+Canon,EOS 6D Mark II,Canon EOS 6D Mark II,1170,/Cameras/Canon/EOS-6D-Mark-II,2017-06-29,2000,semiprodslr,Full Frame,26.2,85,24.4,11.9,2862,3006,ptc/Canon_EOS_6D_Mark_II.csv
+Canon,EOS 700D,Canon EOS 700D,870,/Cameras/Canon/EOS-700D,2013-03-21,750,entryleveldslr,APS-C,18,61,21.7,11.2,681,2268,ptc/Canon_EOS_700D.csv
+Canon,EOS 70D,Canon EOS 70D,895,/Cameras/Canon/EOS-70D,2013-07-02,1199,semiprodslr,APS-C,20.2,68,22.5,11.6,926,2268,ptc/Canon_EOS_70D.csv
+Canon,EOS 750D,Canon EOS 750D,1010,/Cameras/Canon/EOS-750D,2015-02-06,750,entryleveldslr,APS-C,24.2,71,22.7,12,919,2268,ptc/Canon_EOS_750D.csv
+Canon,EOS 760D,Canon EOS 760D,1011,/Cameras/Canon/EOS-760D,2015-02-06,850,entryleveldslr,APS-C,24.2,70,22.6,12,915,2268,ptc/Canon_EOS_760D.csv
+Canon,EOS 77D,Canon EOS 77D,1156,/Cameras/Canon/EOS-77D,2017-02-15,900,semiprodslr,APS-C,24.2,78,23.6,13.3,971,2515,ptc/Canon_EOS_77D.csv
+Canon,EOS 7D,Canon EOS 7D,619,/Cameras/Canon/EOS-7D,2009-09-01,1974,semiprodslr,APS-C,18,66,22,11.7,854,2020,ptc/Canon_EOS_7D.csv
+Canon,EOS 7D Mark II,Canon EOS 7D Mark II,977,/Cameras/Canon/EOS-7D-Mark-II,2014-09-15,1800,semiprodslr,APS-C,20.2,70,22.4,11.8,1082,2515,ptc/Canon_EOS_7D_Mark_II.csv
+Canon,EOS 80D,Canon EOS 80D,1076,/Cameras/Canon/EOS-80D,2016-02-18,1200,semiprodslr,APS-C,24.2,79,23.6,13.2,1135,2268,ptc/Canon_EOS_80D.csv
+Canon,EOS M,Canon EOS M,819,/Cameras/Canon/EOS-M,2012-07-23,799,hybrid,APS-C,18,65,22.1,11.2,827,2268,ptc/Canon_EOS_M.csv
+Canon,EOS M10,Canon EOS M10,1048,/Cameras/Canon/EOS-M10,2015-10-13,600,hybrid,APS-C,18,65,22.2,11.4,753,2268,ptc/Canon_EOS_M10.csv
+Canon,EOS M100,Canon EOS M100,1179,/Cameras/Canon/EOS-M100,2017-08-29,600,hybrid,APS-C,24.2,78,23.5,12.9,1272,2268,ptc/Canon_EOS_M100.csv
+Canon,EOS M2,Canon EOS M2,927,/Cameras/Canon/EOS-M2,2013-12-03,650,hybrid,APS-C,18,65,22.1,11.4,855,2268,ptc/Canon_EOS_M2.csv
+Canon,EOS M3,Canon EOS M3,1019,/Cameras/Canon/EOS-M3,2015-02-06,870,hybrid,APS-C,24.2,72,22.8,11.8,1169,2268,ptc/Canon_EOS_M3.csv
+Canon,EOS M5,Canon EOS M5,1113,/Cameras/Canon/EOS-M5,2016-09-15,980,hybrid,APS-C,24.2,77,23.4,12.4,1262,2268,ptc/Canon_EOS_M5.csv
+Canon,EOS M6,Canon EOS M6,1158,/Cameras/Canon/EOS-M6,2017-02-15,780,hybrid,APS-C,24.2,78,23.4,12.6,1317,2268,ptc/Canon_EOS_M6.csv
+Canon,EOS R,Canon EOS R,1262,/Cameras/Canon/EOS-R,2018-09-05,2300,hybrid,Full Frame,30.3,89,24.5,13.5,2742,3006,ptc/Canon_EOS_R.csv
+Canon,EOS R3,Canon EOS R3,1367,/Cameras/Canon/EOS-R3,2021-09-14,5999,professional,Full Frame,24.1,96,25,14.7,4086,3250,ptc/Canon_EOS_R3.csv
+Canon,EOS R5,Canon EOS R5,1382,/Cameras/Canon/EOS-R5,2020-07-30,4499,professional ,Full Frame,45,95,25.3,14.6,3042,3006,ptc/Canon_EOS_R5.csv
+Canon,EOS R6,Canon EOS R6,1354,/Cameras/Canon/EOS-R6,2020-08-27,2499,hybrid,Full Frame,20.1,90,24.2,14.3,3394,3006,ptc/Canon_EOS_R6.csv
+Canon,EOS R8,Canon EOS R8,1381,/Cameras/Canon/EOS-R8,2023-02-08,1499,semipro,Full Frame,24.2,93,24.5,14.7,3295,3250,ptc/Canon_EOS_R8.csv
+Canon,EOS RP,Canon EOS RP,1302,/Cameras/Canon/EOS-RP,2019-02-14,1300,hybrid,Full Frame,26,85,24.3,11.9,2978,3005,ptc/Canon_EOS_RP.csv
+Canon,PowerShot G1 X Mark II,Canon PowerShot G1 X Mark II,941,/Cameras/Canon/PowerShot-G1-X-Mark-II,2014-02-12,800,highendcompact,-,13.1,58,21.5,10.8,581,2020,ptc/Canon_PowerShot_G1_X_Mark_II.csv
+Canon,PowerShot G12,Canon PowerShot G12,665,/Cameras/Canon/Powershot-G12,2010-09-14,499,compact,"1/1.7""",10,47,20.4,11.2,161,0,
+Canon,PowerShot G16,Canon PowerShot G16,903,/Cameras/Canon/PowerShot-G16,2013-08-22,549,compact,"1/1.7""",12.1,54,21,11.7,230,2268,ptc/Canon_PowerShot_G16.csv
+Canon,PowerShot G1X,Canon PowerShot G1X,769,/Cameras/Canon/PowerShot-G1X,2012-01-09,799,highendcompact,-,14.3,60,21.7,10.8,644,2020,ptc/Canon_PowerShot_G1X.csv
+Canon,PowerShot G3 X,Canon PowerShot G3 X,1037,/Cameras/Canon/PowerShot-G3-X,2015-06-18,1000,highendcompact,"1""",20.2,63,21.4,12.3,521,2020,ptc/Canon_PowerShot_G3_X.csv
+Canon,PowerShot G5 X,Canon PowerShot G5 X,1050,/Cameras/Canon/PowerShot-G5-X,2015-10-13,800,highendcompact,"1""",20,62,21.4,12.3,471,2020,ptc/Canon_PowerShot_G5_X.csv
+Canon,PowerShot G7 X,Canon PowerShot G7 X,978,/Cameras/Canon/PowerShot-G7-X,2014-09-15,700,highendcompact,"1""",20.2,71,23,12.7,556,2020,ptc/Canon_PowerShot_G7_X.csv
+Canon,PowerShot G9 X,Canon PowerShot G9 X,1051,/Cameras/Canon/PowerShot-G9-X,2015-10-14,500,compact,"1""",20.2,63,21.5,12.3,495,2020,ptc/Canon_PowerShot_G9_X.csv
+Canon,PowerShot G9 X Mark II,Canon PowerShot G9 X Mark II,1148,/Cameras/Canon/PowerShot-G9-X-Mark-II,2017-01-04,530,compact,"1""",20.1,65,21.9,12.5,522,2020,ptc/Canon_PowerShot_G9_X_Mark_II.csv
+Canon,PowerShot S100,Canon PowerShot S100,743,/Cameras/Canon/PowerShot-S100,2011-09-15,429,compact,"1/1.7""",12.1,50,20.7,11.6,153,2020,ptc/Canon_PowerShot_S100.csv
+Canon,PowerShot S120,Canon PowerShot S120,904,/Cameras/Canon/PowerShot-S120,2013-08-22,449,compact,"1/1.7""",12.1,56,21.3,11.9,246,2268,ptc/Canon_PowerShot_S120.csv
+Canon,PowerShot S90,Canon PowerShot S90,625,/Cameras/Canon/PowerShot-S90,2009-08-19,420,highendcompact,"1/1.7""",10,46,20.2,11,185,1778,ptc/Canon_PowerShot_S90.csv
+Canon,PowerShot S95,Canon PowerShot S95,667,/Cameras/Canon/PowerShot-S95,2010-08-19,400,highendcompact,"1/1.7""",10,47,20.4,11.3,153,1777,ptc/Canon_PowerShot_S95.csv
+Canon,PowerShot SX50 HS,Canon PowerShot SX50 HS,848,/Cameras/Canon/PowerShot-SX50-HS,2012-09-17,480,compact,"1/2.3""",12.1,47,20.3,11.2,179,2020,ptc/Canon_PowerShot_SX50_HS.csv
+Canon,PowerShot SX60 HS,Canon PowerShot SX60 HS,980,/Cameras/Canon/PowerShot-SX60-HS,2014-09-15,550,compact,"1/2.3""",16.1,39,19.2,10.8,127,1521,ptc/Canon_PowerShot_SX60_HS.csv
+Canon,Powershot G10,Canon Powershot G10,247,/Cameras/Canon/Powershot-G10,2008-09-17,467,highendcompact,"1/1.7""",14,37,19,10,156,1162,ptc/Canon_Powershot_G10.csv
+Canon,Powershot G11,Canon Powershot G11,620,/Cameras/Canon/Powershot-G11,2009-08-19,523,highendcompact,"1/1.7""",10,47,20.4,11.1,169,1778,ptc/Canon_Powershot_G11.csv
+Canon,Powershot G15,Canon Powershot G15,837,/Cameras/Canon/Powershot-G15,2012-09-17,599,compact,"1/1.7""",12.1,46,19.9,11.5,165,2019,ptc/Canon_Powershot_G15.csv
+Canon,Powershot G9,Canon Powershot G9,532,/Cameras/Canon/Powershot-G9,2007-08-20,606,highendcompact,"1/1.7""",12.1,35,18.8,10.1,146,1402,ptc/Canon_Powershot_G9.csv
+Canon,Powershot S110,Canon Powershot S110,838,/Cameras/Canon/Powershot-S110,2012-09-17,499,compact,"1/1.7""",12.1,48,20.6,11.2,168,2019,ptc/Canon_Powershot_S110.csv
+DJI,Phantom 4,DJI Phantom 4,1109,/Cameras/DJI/Phantom-4,2016-03-15,1200,drone,"1/2.3""",12.4,48,20.4,11.8,128,1266,ptc/DJI_Phantom_4.csv
+DJI,Phantom4 Pro,DJI Phantom4 Pro,1143,/Cameras/DJI/Phantom4-Pro,2016-11-15,1500,drone,"1""",20,65,22,12.5,466,2020,ptc/DJI_Phantom4_Pro.csv
+DJI,Zenmuse X4S,DJI Zenmuse X4S,1145,/Cameras/DJI/Zenmuse-X4S,2016-11-15,599,drone,"1""",20,65,22,12.6,442,2022,ptc/DJI_Zenmuse_X4S.csv
+DJI,Zenmuse X5S,DJI Zenmuse X5S,1146,/Cameras/DJI/Zenmuse-X5S,2016-11-15,1400,drone,"4/3""",20.8,74,23,12.7,956,2273,ptc/DJI_Zenmuse_X5S.csv
+DJI,Zenmuse X7,DJI Zenmuse X7,1185,/Cameras/DJI/Zenmuse-X7,2017-10-11,2700,drone,APS-C,24,86,24.6,13.9,1482,2262,ptc/DJI_Zenmuse_X7.csv
+Fujifilm,FinePix F550EXR,Fujifilm FinePix F550EXR,703,/Cameras/Fujifilm/FinePix-F550EXR,2011-01-05,450,compact,"1/2.3""",16,39,19.2,10.6,158,1521,ptc/Fujifilm_FinePix_F550EXR.csv
+Fujifilm,FinePix F600EXR,Fujifilm FinePix F600EXR,732,/Cameras/Fujifilm/FinePix-F600EXR,2011-08-11,500,compact,"1/2.3""",16,40,19.4,10.8,153,1521,ptc/Fujifilm_FinePix_F600EXR.csv
+Fujifilm,FinePix F800EXR,Fujifilm FinePix F800EXR,820,/Cameras/Fujifilm/FinePix-F800EXR,2012-07-25,349,compact,"1/2.3""",16,41,19.5,10.9,143,1521,ptc/Fujifilm_FinePix_F800EXR.csv
+Fujifilm,FinePix S100fs,Fujifilm FinePix S100fs,578,/Cameras/Fujifilm/FinePix-S100fs,2008-01-24,713,highendcompact,"2/3""",11.1,43,19.6,11.1,177,1527,ptc/Fujifilm_FinePix_S100fs.csv
+Fujifilm,FinePix S3 Pro,Fujifilm FinePix S3 Pro,528,/Cameras/Fujifilm/FinePix-S3-Pro,2004-02-05,1190,none,APS-C,6.1,60,20.9,13.5,346,1213,ptc/Fujifilm_FinePix_S3_Pro.csv
+Fujifilm,FinePix S5 Pro,Fujifilm FinePix S5 Pro,511,/Cameras/Fujifilm/FinePix-S5-Pro,2006-09-25,1200,semiprodslr,APS-C,6.1,65,21.6,13.5,448,1453,ptc/Fujifilm_FinePix_S5_Pro.csv
+Fujifilm,FinePix X S1,Fujifilm FinePix X S1,756,/Cameras/Fujifilm/FinePix-X-S1,2011-11-24,699,none,"2/3""",12,49,20.4,11.2,216,1521,ptc/Fujifilm_FinePix_X_S1.csv
+Fujifilm,FinePix X10,Fujifilm FinePix X10,740,/Cameras/Fujifilm/FinePix-X10,2011-09-01,600,compact,"2/3""",12,50,20.5,11.3,245,1270,ptc/Fujifilm_FinePix_X10.csv
+Fujifilm,FinePix X100,Fujifilm FinePix X100,695,/Cameras/Fujifilm/FinePix-X100,2010-09-19,999,highendcompact,APS-C,12.3,73,22.9,12.4,1001,1018,ptc/Fujifilm_FinePix_X100.csv
+Fujifilm,XF1,Fujifilm XF1,835,/Cameras/Fujifilm/XF1,2012-09-17,499,compact,"2/3""",12,49,20.5,11.2,199,1521,ptc/Fujifilm_XF1.csv
+GoPro,HERO5 Black,GoPro HERO5 Black,1144,/Cameras/GoPro/HERO5-Black,2016-09-19,400,actioncamera,"1/2.3""",12,38,19,11.2,105,1270,ptc/GoPro_HERO5_Black.csv
+Hasselblad,H3DII 39,Hasselblad H3DII 39,457,/Cameras/Hasselblad/H3DII-39,2007-11-26,22000,professional,Medium Format,39,75,24.2,12.5,532,950,ptc/Hasselblad_H3DII_39.csv
+Hasselblad,H3DII 50,Hasselblad H3DII 50,585,/Cameras/Hasselblad/H3DII-50,2007-11-26,20000,professional,Medium Format,50,78,24.7,12.7,574,1022,ptc/Hasselblad_H3DII_50.csv
+Hasselblad,X1D-50c,Hasselblad X1D-50c,1114,/Cameras/Hasselblad/X1D-50c,2016-06-22,8995,hybrid,Medium Format,50,102,26.2,14.8,4489,2274,ptc/Hasselblad_X1D_50c.csv
+Konica Minolta,DYNAX 5D,Konica Minolta DYNAX 5D,279,/Cameras/Konica-Minolta/DYNAX-5D,2005-07-15,500,"entryleveldslr, semiprodslr",APS-C,6,58,21.3,11.1,605,1414,ptc/Konica_Minolta_DYNAX_5D.csv
+Konica Minolta,DYNAX 7D,Konica Minolta DYNAX 7D,215,/Cameras/Konica-Minolta/DYNAX-7D,2004-09-15,569,"entryleveldslr, semiprodslr",APS-C,6,58,21.2,11,613,1415,ptc/Konica_Minolta_DYNAX_7D.csv
+Leaf,Aptus75S,Leaf Aptus75S,512,/Cameras/Leaf/Aptus75S,2006-09-26,32995,professional,Medium Format,33,77,24.7,12.5,538,1179,ptc/Leaf_Aptus75S.csv
+Leica,C,Leica C,910,/Cameras/Leica/C,2013-09-10,795,highendcompact,"1/1.7""",12.1,52,20.9,11.6,193,2268,ptc/Leica_C.csv
+Leica,M Typ 240,Leica M Typ 240,844,/Cameras/Leica/M-Typ-240,2012-09-17,6950,professional,Full Frame,24,84,24,13.3,1860,1515,ptc/Leica_M_Typ_240.csv
+Leica,M-E Typ 220,Leica M-E Typ 220,843,/Cameras/Leica/M-E-Typ-220,2012-09-17,5450,professional,Full Frame,18,69,22.7,11.7,787,1521,ptc/Leica_M_E_Typ_220.csv
+Leica,M10,Leica M10,1207,/Cameras/Leica/M10,2017-01-18,6895,professional,Full Frame,24,86,24.4,13.2,2133,2515,ptc/Leica_M10.csv
+Leica,M11,Leica M11,1379,/Cameras/Leica/M11,2022-01-13,8350,highend,Full Frame,60.3,100,26.3,14.8,3376,2761,ptc/Leica_M11.csv
+Leica,M8,Leica M8,250,/Cameras/Leica/M8,2006-09-14,5495,professional,APS-H,10.3,59,21.1,11.3,663,1179,ptc/Leica_M8.csv
+Leica,M9,Leica M9,640,/Cameras/Leica/M9,2009-09-09,5500,professional,Full Frame,18,69,22.5,11.7,884,1510,ptc/Leica_M9.csv
+Leica,M9 P,Leica M9 P,721,/Cameras/Leica/M9-P,2011-01-21,6950,professional,Full Frame,18,68,22.5,11.6,854,1521,ptc/Leica_M9_P.csv
+Leica,Q Typ 116,Leica Q Typ 116,1032,/Cameras/Leica/Q-Typ-116,2015-06-10,4250,highendcompact,Full Frame,24.2,85,24.3,12.7,2221,2515,ptc/Leica_Q_Typ_116.csv
+Leica,Q2,Leica Q2,1299,/Cameras/Leica/Q2,2019-03-07,5000,highendcompact,Full Frame,47.3,96,26.4,13.5,2491,2761,ptc/Leica_Q2.csv
+Leica,S,Leica S,847,/Cameras/Leica/S,2012-09-17,21950,professional,Medium Format,37.5,76,23.9,12.2,824,1270,ptc/Leica_S.csv
+Leica,SL (Typ 601),Leica SL (Typ 601),1058,/Cameras/Leica/SL-(Typ-601),2015-10-20,7450,hybrid,Full Frame,24,88,25,13.4,1821,2761,ptc/Leica_SL_Typ_601.csv
+Leica,SL2-S,Leica SL2-S,1360,/Cameras/Leica/SL2-S,2020-12-10,4895,hybrid,Full Frame,24.6,95,25.2,14.1,3504,3006,ptc/Leica_SL2_S.csv
+Leica,T,Leica T,954,/Cameras/Leica/T,2014-04-24,1850,hybrid,APS-C,16,75,23,12.7,1082,2020,ptc/Leica_T.csv
+Leica,X Vario,Leica X Vario,944,/Cameras/Leica/X-Vario,2013-06-11,2850,highendcompact,APS-C,16.2,78,23.4,12.7,1320,2020,ptc/Leica_X_Vario.csv
+Mamiya,ZD Back,Mamiya ZD Back,484,/Cameras/Mamiya/ZD-Back,2008-09-01,6999,professional,Medium Format,21.5,64,23.4,11.7,245,945,ptc/Mamiya_ZD_Back.csv
+Nikon,1 AW1,Nikon 1 AW1,912,/Cameras/Nikon/1-AW1,2013-09-19,800,hybrid,"1""",14.2,51,20.2,10.9,428,1771,ptc/Nikon_1_AW1.csv
+Nikon,1 J1,Nikon 1 J1,744,/Cameras/Nikon/1-J1,2011-09-21,700,hybrid,"1""",10.1,56,21.5,11,372,1521,ptc/Nikon_1_J1.csv
+Nikon,1 J2,Nikon 1 J2,824,/Cameras/Nikon/1-J2,2012-08-09,700,hybrid,"1""",10.1,54,21.3,10.8,363,1771,ptc/Nikon_1_J2.csv
+Nikon,1 J3,Nikon 1 J3,852,/Cameras/Nikon/1-J3,2013-01-08,600,hybrid,"1""",14.2,52,20.4,11,420,1771,ptc/Nikon_1_J3.csv
+Nikon,1 J4,Nikon 1 J4,950,/Cameras/Nikon/1-J4,2014-04-10,599,hybrid,"1""",18.4,53,20.8,10.7,426,2020,ptc/Nikon_1_J4.csv
+Nikon,1 J5,Nikon 1 J5,1025,/Cameras/Nikon/1-J5,2015-04-02,500,hybrid,"1""",20.8,65,22.1,12,479,2020,ptc/Nikon_1_J5.csv
+Nikon,1 S1,Nikon 1 S1,853,/Cameras/Nikon/1-S1,2013-01-08,499,hybrid,"1""",10.1,56,21.4,11.1,397,1771,ptc/Nikon_1_S1.csv
+Nikon,1 V1,Nikon 1 V1,745,/Cameras/Nikon/1-V1,2011-09-21,1000,hybrid,"1""",10.1,54,21.3,11,346,1771,ptc/Nikon_1_V1.csv
+Nikon,1 V2,Nikon 1 V2,849,/Cameras/Nikon/1-V2,2012-10-24,899,hybrid,"1""",14.2,50,20.2,10.8,403,1771,ptc/Nikon_1_V2.csv
+Nikon,1 V3,Nikon 1 V3,947,/Cameras/Nikon/1-V3,2014-03-13,999,hybrid,"1""",18.4,52,20.8,10.7,384,2020,ptc/Nikon_1_V3.csv
+Nikon,Coolpix A,Nikon Coolpix A,867,/Cameras/Nikon/Coolpix-A,2013-03-04,1100,highendcompact,APS-C,16.2,80,23.4,13.8,1164,2268,ptc/Nikon_Coolpix_A.csv
+Nikon,Coolpix P330,Nikon Coolpix P330,869,/Cameras/Nikon/Coolpix-P330,2013-03-04,380,compact,"1/1.7""",12.2,54,21,11.7,213,2019,ptc/Nikon_Coolpix_P330.csv
+Nikon,Coolpix P340,Nikon Coolpix P340,939,/Cameras/Nikon/Coolpix-P340,2014-02-06,380,compact,"1/1.7""",12.2,54,20.7,11.9,273,2268,ptc/Nikon_Coolpix_P340.csv
+Nikon,Coolpix P6000,Nikon Coolpix P6000,248,/Cameras/Nikon/Coolpix-P6000,2008-08-07,439,highendcompact,"1/1.7""",13.5,35,19,10.2,129,1158,ptc/Nikon_Coolpix_P6000.csv
+Nikon,Coolpix P7000,Nikon Coolpix P7000,681,/Cameras/Nikon/Coolpix-P7000,2010-09-08,500,highendcompact,"1/1.7""",10.1,39,19.1,10.8,147,1777,ptc/Nikon_Coolpix_P7000.csv
+Nikon,Coolpix P7100,Nikon Coolpix P7100,733,/Cameras/Nikon/Coolpix-P7100,2011-08-24,715,highendcompact,"1/1.7""",10.1,41,19.4,10.7,165,1520,ptc/Nikon_Coolpix_P7100.csv
+Nikon,Coolpix P7700,Nikon Coolpix P7700,825,/Cameras/Nikon/Coolpix-P7700,2012-08-22,499,highendcompact,"1/1.7""",12.2,53,21.1,11.7,191,2020,ptc/Nikon_Coolpix_P7700.csv
+Nikon,Coolpix P7800,Nikon Coolpix P7800,908,/Cameras/Nikon/Coolpix-P7800,2013-09-05,550,highendcompact,"1/1.7""",12.2,54,21.2,11.7,200,2020,ptc/Nikon_Coolpix_P7800.csv
+Nikon,D200,Nikon D200,203,/Cameras/Nikon/D200,2005-11-01,1000,semiprodslr ,APS-C,10,64,22.3,11.5,583,1429,ptc/Nikon_D200.csv
+Nikon,D2H,Nikon D2H,206,/Cameras/Nikon/D2H,2003-07-22,900,professional,APS-C,4,40,18.9,10,352,1406,ptc/Nikon_D2H.csv
+Nikon,D2X,Nikon D2X,207,/Cameras/Nikon/D2X,2004-09-16,2000,professional,APS-C,12.2,59,22.1,10.9,476,1406,ptc/Nikon_D2X.csv
+Nikon,D2Xs,Nikon D2Xs,533,/Cameras/Nikon/D2Xs,2006-06-01,4250,professional,APS-C,12.2,59,22.2,10.9,489,1406,ptc/Nikon_D2Xs.csv
+Nikon,D3,Nikon D3,438,/Cameras/Nikon/D3,2007-08-23,4300,professional,Full Frame,12.1,81,23.5,12.2,2290,1897,ptc/Nikon_D3.csv
+Nikon,D300,Nikon D300,440,/Cameras/Nikon/D300,2007-08-23,1540,semiprodslr ,APS-C,12.3,67,22.1,12,679,1418,ptc/Nikon_D300.csv
+Nikon,D3000,Nikon D3000,623,/Cameras/Nikon/D3000,2009-04-14,730,entryleveldslr,APS-C,12.3,62,22.3,11.1,563,1526,ptc/Nikon_D3000.csv
+Nikon,D300s,Nikon D300s,614,/Cameras/Nikon/D300s,2009-07-30,1815,semiprodslr ,APS-C,12.3,70,22.5,12.2,787,1778,ptc/Nikon_D300s.csv
+Nikon,D3100,Nikon D3100,664,/Cameras/Nikon/D3100,2010-10-01,699,entryleveldslr,APS-C,14.8,67,22.5,11.3,919,2027,ptc/Nikon_D3100.csv
+Nikon,D3200,Nikon D3200,801,/Cameras/Nikon/D3200,2012-04-19,699,entryleveldslr,APS-C,24.2,81,24.1,13.2,1131,2020,ptc/Nikon_D3200.csv
+Nikon,D3300,Nikon D3300,928,/Cameras/Nikon/D3300,2014-01-07,650,entryleveldslr,APS-C,24.2,82,24.3,12.8,1385,2268,ptc/Nikon_D3300.csv
+Nikon,D3400,Nikon D3400,1105,/Cameras/Nikon/D3400,2016-08-17,650,entryleveldslr,APS-C,24.2,86,24.8,13.9,1192,2268,ptc/Nikon_D3400.csv
+Nikon,D3X,Nikon D3X,485,/Cameras/Nikon/D3X,2008-12-01,9172,professional,Full Frame,24.5,88,24.7,13.7,1992,1671,ptc/Nikon_D3X.csv
+Nikon,D3s,Nikon D3s,628,/Cameras/Nikon/D3s,2009-10-14,5510,professional,Full Frame,12.1,82,23.5,12,3253,2772,ptc/Nikon_D3s.csv
+Nikon,D4,Nikon D4,767,/Cameras/Nikon/D4,2012-01-06,5999,professional,Full Frame,16.2,89,24.7,13.1,2965,2994,ptc/Nikon_D4.csv
+Nikon,D40,Nikon D40,229,/Cameras/Nikon/D40,2006-11-16,400,entryleveldslr,APS-C,6,56,21,11,561,1181,ptc/Nikon_D40.csv
+Nikon,D40X,Nikon D40X,514,/Cameras/Nikon/D40X,2007-03-06,998,entryleveldslr,APS-C,10,63,22.4,11.4,516,1419,ptc/Nikon_D40X.csv
+Nikon,D4s,Nikon D4s,945,/Cameras/Nikon/D4s,2014-02-25,6500,professional,Full Frame,16.2,89,24.4,13.3,3074,3250,ptc/Nikon_D4s.csv
+Nikon,D5,Nikon D5,1062,/Cameras/Nikon/D5,2016-01-06,6500,professional,Full Frame,20.8,88,25.1,12.3,2434,3961,ptc/Nikon_D5.csv
+Nikon,D50,Nikon D50,195,/Cameras/Nikon/D50,2005-04-20,1000,entryleveldslr,APS-C,6,55,20.9,10.8,560,947,ptc/Nikon_D50.csv
+Nikon,D500,Nikon D500,1061,/Cameras/Nikon/D500,2016-01-06,2000,semiprodslr,APS-C,20.9,84,24.1,14,1324,3493,ptc/Nikon_D500.csv
+Nikon,D5000,Nikon D5000,587,/Cameras/Nikon/D5000,2009-04-14,730,"entryleveldslr, semiprodslr ",APS-C,12.3,72,22.7,12.5,868,1778,ptc/Nikon_D5000.csv
+Nikon,D5100,Nikon D5100,698,/Cameras/Nikon/D5100,2011-04-05,799,"entryleveldslr, semiprodslr ",APS-C,16.2,80,23.5,13.6,1183,2268,ptc/Nikon_D5100.csv
+Nikon,D5200,Nikon D5200,850,/Cameras/Nikon/D5200,2012-11-06,897,entryleveldslr,APS-C,24.1,84,24.2,13.9,1284,2268,ptc/Nikon_D5200.csv
+Nikon,D5300,Nikon D5300,919,/Cameras/Nikon/D5300,2013-10-17,800,entryleveldslr,APS-C,24.2,83,24,13.9,1338,2268,ptc/Nikon_D5300.csv
+Nikon,D5500,Nikon D5500,998,/Cameras/Nikon/D5500,2015-01-06,900,entryleveldslr,APS-C,24.2,84,24.1,14,1438,2268,ptc/Nikon_D5500.csv
+Nikon,D5600,Nikon D5600,1139,/Cameras/Nikon/D5600,2016-11-10,700,entryleveldslr,APS-C,24.2,84,24.1,14,1306,2268,ptc/Nikon_D5600.csv
+Nikon,D60,Nikon D60,196,/Cameras/Nikon/D60,2008-01-29,470,entryleveldslr,APS-C,10.2,65,22.5,11.4,562,1415,ptc/Nikon_D60.csv
+Nikon,D600,Nikon D600,834,/Cameras/Nikon/D600,2012-09-13,2100,semiprodslr,Full Frame,24.3,94,25.1,14.2,2980,2259,ptc/Nikon_D600.csv
+Nikon,D610,Nikon D610,915,/Cameras/Nikon/D610,2013-10-08,1999,semiprodslr,Full Frame,24,94,25.1,14.4,2925,2514,ptc/Nikon_D610.csv
+Nikon,D70,Nikon D70,197,/Cameras/Nikon/D70,2004-01-28,400,entryleveldslr,APS-C,6,50,20.4,10.3,529,944,ptc/Nikon_D70.csv
+Nikon,D700,Nikon D700,441,/Cameras/Nikon/D700,2008-07-01,2699,semiprodslr ,Full Frame,12.1,80,23.5,12.2,2303,1895,ptc/Nikon_D700.csv
+Nikon,D7000,Nikon D7000,680,/Cameras/Nikon/D7000,2010-09-15,1200,semiprodslr,APS-C,16.2,80,23.5,13.9,1167,2268,ptc/Nikon_D7000.csv
+Nikon,D70s,Nikon D70s,238,/Cameras/Nikon/D70s,2005-04-20,700,entryleveldslr,APS-C,6.1,50,20.4,10.3,529,944,ptc/Nikon_D70s.csv
+Nikon,D7100,Nikon D7100,865,/Cameras/Nikon/D7100,2013-02-21,1200,semiprodslr,APS-C,24.1,83,24.2,13.7,1256,2268,ptc/Nikon_D7100.csv
+Nikon,D7200,Nikon D7200,1020,/Cameras/Nikon/D7200,2015-03-02,1200,semiprodslr,APS-C,24.2,87,24.5,14.6,1333,2268,ptc/Nikon_D7200.csv
+Nikon,D750,Nikon D750,975,/Cameras/Nikon/D750,2014-09-12,2300,semiprodslr,Full Frame,24.3,93,24.8,14.5,2956,2760,ptc/Nikon_D750.csv
+Nikon,D7500,Nikon D7500,1161,/Cameras/Nikon/D7500,2017-04-12,1250,semiprodslr,APS-C,20.9,86,24.3,14,1483,3493,ptc/Nikon_D7500.csv
+Nikon,D80,Nikon D80,518,/Cameras/Nikon/D80,2006-08-09,730,"entryleveldslr, semiprodslr ",APS-C,10,61,22.1,11.2,524,1411,ptc/Nikon_D80.csv
+Nikon,D800,Nikon D800,792,/Cameras/Nikon/D800,2012-02-07,2999,semiprodslr,Full Frame,36.3,95,25.3,14.4,2853,2259,ptc/Nikon_D800.csv
+Nikon,D800E,Nikon D800E,814,/Cameras/Nikon/D800E,2012-02-07,3300,semiprodslr,Full Frame,36.3,96,25.6,14.3,2979,2259,ptc/Nikon_D800E.csv
+Nikon,D810,Nikon D810,963,/Cameras/Nikon/D810,2014-06-26,3300,professional,Full Frame,36.3,97,25.7,14.8,2853,2761,ptc/Nikon_D810.csv
+Nikon,D850,Nikon D850,1177,/Cameras/Nikon/D850,2017-08-23,3300,semiprodslr,Full Frame,45.7,100,26.4,14.8,2660,3260,ptc/Nikon_D850.csv
+Nikon,D90,Nikon D90,439,/Cameras/Nikon/D90,2008-08-27,1235,"entryleveldslr, semiprodslr ",APS-C,12.3,73,22.7,12.5,977,1427,ptc/Nikon_D90.csv
+Nikon,Df,Nikon Df,925,/Cameras/Nikon/Df,2013-11-05,2749,semiprodslr,Full Frame,16.2,89,24.6,13.1,3279,3250,ptc/Nikon_Df.csv
+Nikon,Z6,Nikon Z6,1269,/Cameras/Nikon/Z6,2018-08-23,2000,hybrid,Full Frame,24.5,95,25.3,14.3,3299,3251,ptc/Nikon_Z6.csv
+Nikon,Z6II,Nikon Z6II,1364,/Cameras/Nikon/Z6II,2020-10-14,1995,hybrid,Full Frame,24.5,94,25,14.4,3303,3250,ptc/Nikon_Z6II.csv
+Nikon,Z7,Nikon Z7,1270,/Cameras/Nikon/Z7,2018-08-23,3400,hybrid,Full Frame,45.7,99,26.3,14.6,2668,3249,ptc/Nikon_Z7.csv
+Nikon,Z7II,Nikon Z7II,1361,/Cameras/Nikon/Z7II,2020-10-14,3399,hybrid,Full Frame,45.75,100,26.3,14.7,2841,2761,ptc/Nikon_Z7II.csv
+Nikon,Z8,Nikon Z8,1386,/Cameras/Nikon/Z8,2023-05-25,4000,professional,Full Frame,45.7,98,26.3,14.2,2548,3006,ptc/Nikon_Z8.csv
+Nikon,Z9,Nikon Z9,1378,/Cameras/Nikon/Z9,2021-12-24,5999,professional,Full Frame,45.7,98,26.3,14.4,2451,3006,ptc/Nikon_Z9.csv
+Nokia,Lumia 1020,Nokia Lumia 1020,933,/Cameras/Nokia/Lumia-1020,2013-07-11,610,mobile,"2/3""",41,41,20.2,10.4,135,1268,ptc/Nokia_Lumia_1020.csv
+Nokia,Lumia 1520,Nokia Lumia 1520,934,/Cameras/Nokia/Lumia-1520,2013-11-15,600,compact,-,20,29,18.6,10,71,1771,ptc/Nokia_Lumia_1520.csv
+Olympus,E3,Olympus E3,220,/Cameras/Olympus/E3,2007-10-16,1300,"semiprodslr, professional","4/3""",10.1,56,21.6,10.5,571,1408,ptc/Olympus_E3.csv
+Olympus,E30,Olympus E30,574,/Cameras/Olympus/E30,2008-11-05,1689,semiprodslr,"4/3""",12.3,55,21.3,10.4,530,1269,ptc/Olympus_E30.csv
+Olympus,E410,Olympus E410,496,/Cameras/Olympus/E410,2007-03-05,480,entryleveldslr,"4/3""",10,51,21.1,10,494,1274,ptc/Olympus_E410.csv
+Olympus,E420,Olympus E420,464,/Cameras/Olympus/E420,2008-03-05,520,entryleveldslr,"4/3""",10,56,21.5,10.4,527,1178,ptc/Olympus_E420.csv
+Olympus,E450,Olympus E450,589,/Cameras/Olympus/E450,2009-03-31,443,entryleveldslr,"4/3""",10,56,21.5,10.5,512,1275,ptc/Olympus_E450.csv
+Olympus,E5,Olympus E5,682,/Cameras/Olympus/E5,2010-09-14,1699,"semiprodslr, professional","4/3""",12.3,56,21.6,10.5,519,1778,ptc/Olympus_E5.csv
+Olympus,E510,Olympus E510,465,/Cameras/Olympus/E510,2007-03-05,593,entryleveldslr,"4/3""",10,52,21.2,10,442,1174,ptc/Olympus_E510.csv
+Olympus,E520,Olympus E520,221,/Cameras/Olympus/E520,2008-05-13,450,entryleveldslr,"4/3""",10,55,21.4,10.4,548,1177,ptc/Olympus_E520.csv
+Olympus,E600,Olympus E600,644,/Cameras/Olympus/E600,2009-08-30,490,entryleveldslr,"4/3""",12.3,55,21.5,10.3,541,1270,ptc/Olympus_E600.csv
+Olympus,E620,Olympus E620,588,/Cameras/Olympus/E620,2009-02-24,618,entryleveldslr,"4/3""",12.3,55,21.3,10.3,536,1270,ptc/Olympus_E620.csv
+Olympus,OM-D E-M1,Olympus OM-D E-M1,909,/Cameras/Olympus/OM-D-E-M1,2013-09-10,1399,hybrid,"4/3""",16.3,73,23,12.7,757,2268,ptc/Olympus_OM_D_E_M1.csv
+Olympus,OM-D E-M1 Mark II,Olympus OM-D E-M1 Mark II,1136,/Cameras/Olympus/OM-D-E-M1-Mark-II,2016-09-19,2000,hybrid,"4/3""",20.4,80,23.7,12.8,1312,2268,ptc/Olympus_OM_D_E_M1_Mark_II.csv
+Olympus,OM-D E-M10,Olympus OM-D E-M10,937,/Cameras/Olympus/OM-D-E-M10,2014-01-29,700,hybrid,"4/3""",16.1,72,22.8,12.3,884,2268,ptc/Olympus_OM_D_E_M10.csv
+Olympus,OM-D E-M10 Mark II,Olympus OM-D E-M10 Mark II,1046,/Cameras/Olympus/OM-D-E-M10-Mark-II,2015-08-25,650,hybrid,"4/3""",16.1,73,23.1,12.5,842,2012,ptc/Olympus_OM_D_E_M10_Mark_II.csv
+Olympus,OM-D E-M5,Olympus OM-D E-M5,793,/Cameras/Olympus/OM-D-E-M5,2012-02-08,999,hybrid,"4/3""",16.1,71,22.8,12.3,826,2020,ptc/Olympus_OM_D_E_M5.csv
+Olympus,OM-D E-M5 Mark II,Olympus OM-D E-M5 Mark II,1006,/Cameras/Olympus/OM-D-E-M5-Mark-II,2015-02-05,1100,highendcompact,"4/3""",16.1,73,23,12.4,896,2268,ptc/Olympus_OM_D_E_M5_Mark_II.csv
+Olympus,PEN E-P5,Olympus PEN E-P5,883,/Cameras/Olympus/PEN-E-P5,2013-05-10,1000,hybrid,"4/3""",16.1,72,22.8,12.4,895,2268,ptc/Olympus_PEN_E_P5.csv
+Olympus,PEN E-PL5,Olympus PEN E-PL5,839,/Cameras/Olympus/PEN-E-PL5,2012-09-17,699,hybrid,"4/3""",16.1,72,22.8,12.3,889,2020,ptc/Olympus_PEN_E_PL5.csv
+Olympus,PEN E-PL7,Olympus PEN E-PL7,972,/Cameras/Olympus/PEN-E-PL7,2014-08-28,600,hybrid,"4/3""",16.1,72,22.7,12.4,873,2268,ptc/Olympus_PEN_E_PL7.csv
+Olympus,PEN E-PM2,Olympus PEN E-PM2,840,/Cameras/Olympus/PEN-E-PM2,2012-09-17,599,hybrid,"4/3""",16.1,72,22.7,12.2,932,2020,ptc/Olympus_PEN_E_PM2.csv
+Olympus,PEN EP1,Olympus PEN EP1,612,/Cameras/Olympus/PEN-EP1,2009-06-16,1098,hybrid,"4/3""",12.3,55,21.4,10.4,536,1778,ptc/Olympus_PEN_EP1.csv
+Olympus,PEN EP2,Olympus PEN EP2,631,/Cameras/Olympus/PEN-EP2,2009-11-05,1100,hybrid,"4/3""",12.3,56,21.5,10.4,505,1777,ptc/Olympus_PEN_EP2.csv
+Olympus,PEN EP3,Olympus PEN EP3,724,/Cameras/Olympus/PEN-EP3,2011-06-30,1000,hybrid,"4/3""",12.3,51,20.8,10.1,536,1771,ptc/Olympus_PEN_EP3.csv
+Olympus,PEN EPL1,Olympus PEN EPL1,643,/Cameras/Olympus/PEN-EPL1,2010-02-03,599,hybrid,"4/3""",12.3,54,21.5,10.1,487,1265,ptc/Olympus_PEN_EPL1.csv
+Olympus,PEN EPL2,Olympus PEN EPL2,687,/Cameras/Olympus/PEN-EPL2,2011-01-06,599,hybrid,"4/3""",12.3,55,21.4,10.2,573,1521,ptc/Olympus_PEN_EPL2.csv
+Olympus,PEN EPL3,Olympus PEN EPL3,725,/Cameras/Olympus/PEN-EPL3,2011-06-30,460,hybrid,"4/3""",12.3,52,20.9,10.3,499,1771,ptc/Olympus_PEN_EPL3.csv
+Olympus,PEN EPM1,Olympus PEN EPM1,726,/Cameras/Olympus/PEN-EPM1,2011-06-30,499,hybrid,"4/3""",12.3,52,21,10.3,499,1771,ptc/Olympus_PEN_EPM1.csv
+Olympus,PEN-F,Olympus PEN-F,1070,/Cameras/Olympus/PEN-F,2016-01-27,1200,hybrid,"4/3""",20.3,74,23.1,12.4,894,2268,ptc/Olympus_PEN_F.csv
+Olympus,SP 565 UZ,Olympus SP 565 UZ,467,/Cameras/Olympus/SP-565-UZ,2008-08-25,433,highendcompact,"1/2.3""",10,30,18.7,10.1,68,1527,ptc/Olympus_SP_565_UZ.csv
+Olympus,SP 570 UZ,Olympus SP 570 UZ,417,/Cameras/Olympus/SP-570-UZ,2008-01-22,520,highendcompact,"1/2.3""",10,28,18.4,10,72,1527,ptc/Olympus_SP_570_UZ.csv
+Olympus,Stylus1,Olympus Stylus1,923,/Cameras/Olympus/Stylus1,2013-10-29,699,highendcompact,"1/1.7""",12,51,20.7,11.6,179,2020,ptc/Olympus_Stylus1.csv
+Olympus,XZ-2 iHS,Olympus XZ-2 iHS,841,/Cameras/Olympus/XZ-2-iHS,2012-09-17,549,highendcompact,"1/1.7""",12,49,20.4,11.3,216,2020,ptc/Olympus_XZ_2_iHS.csv
+Olympus,XZ1,Olympus XZ1,688,/Cameras/Olympus/XZ1,2011-01-06,494,highendcompact,"1/1.7""",10,34,18.8,10.4,117,1771,ptc/Olympus_XZ1.csv
+Panasonic,DMC FZ28,Panasonic DMC FZ28,256,/Cameras/Panasonic/DMC-FZ28,2008-07-21,426,highendcompact,-,10.1,27,17.9,10.1,79,1173,ptc/Panasonic_DMC_FZ28.csv
+Panasonic,LUMIX DMC-FZ150,Panasonic LUMIX DMC-FZ150,738,/Cameras/Panasonic/LUMIX-DMC-FZ150,2011-08-26,630,highendcompact,-,12.1,40,19.4,10.9,132,1521,ptc/Panasonic_LUMIX_DMC_FZ150.csv
+Panasonic,LUMIX DMC-FZ200,Panasonic LUMIX DMC-FZ200,818,/Cameras/Panasonic/LUMIX-DMC-FZ200,2012-07-18,600,highendcompact,"1/2.3""",12.1,37,19.1,10.8,114,1771,ptc/Panasonic_LUMIX_DMC_FZ200.csv
+Panasonic,LUMIX DMC-G6,Panasonic LUMIX DMC-G6,875,/Cameras/Panasonic/LUMIX-DMC-G6,2013-04-24,750,hybrid,"4/3""",16.05,61,21.3,11.5,639,2268,ptc/Panasonic_LUMIX_DMC_G6.csv
+Panasonic,LUMIX DMC-LF1,Panasonic LUMIX DMC-LF1,876,/Cameras/Panasonic/LUMIX-DMC-LF1,2013-04-24,500,compact,"1/1.7""",12.1,52,20.8,11.6,211,2268,ptc/Panasonic_LUMIX_DMC_LF1.csv
+Panasonic,Lumix DC-GH5,Panasonic Lumix DC-GH5,1149,/Cameras/Panasonic/Lumix-DC-GH5,2017-01-04,2000,hybrid,"4/3""",20.3,77,23.9,13,807,2267,ptc/Panasonic_Lumix_DC_GH5.csv
+Panasonic,Lumix DC-GH5 II,Panasonic Lumix DC-GH5 II,1366,/Cameras/Panasonic/Lumix-DC-GH5-II,2021-05-25,1699,hybrid,"4/3""",20.33,79,23.7,13.1,1136,2268,ptc/Panasonic_Lumix_DC_GH5_II.csv
+Panasonic,Lumix DC-GX800,Panasonic Lumix DC-GX800,1151,/Cameras/Panasonic/Lumix-DC-GX800,2017-01-04,550,hybrid,"4/3""",16,73,23.2,13.3,586,2268,ptc/Panasonic_Lumix_DC_GX800.csv
+Panasonic,Lumix DC-S1,Panasonic Lumix DC-S1,1291,/Cameras/Panasonic/Lumix-DC-S1,2019-02-01,2500,hybrid,Full Frame,24.2,95,25.2,14.5,3333,3251,ptc/Panasonic_Lumix_DC_S1.csv
+Panasonic,Lumix DC-S1R,Panasonic Lumix DC-S1R,1294,/Cameras/Panasonic/Lumix-DC-S1R,2019-02-01,3700,hybrid,Full Frame,47.3,100,26.4,14.1,3525,2762,ptc/Panasonic_Lumix_DC_S1R.csv
+Panasonic,Lumix DC-ZS70,Panasonic Lumix DC-ZS70,1163,/Cameras/Panasonic/Lumix-DC-ZS70,2017-04-19,450,compact,"1/2.3""",20.3,36,19.1,10.6,106,2020,ptc/Panasonic_Lumix_DC_ZS70.csv
+Panasonic,Lumix DCS5,Panasonic Lumix DCS5,1362,/Cameras/Panasonic/Lumix-DCS5,2021-02-09,1999,hybrid,Full Frame,24.2,94,25.1,14.5,2697,3250,ptc/Panasonic_Lumix_DCS5.csv
+Panasonic,Lumix DMC FX150,Panasonic Lumix DMC FX150,482,/Cameras/Panasonic/Lumix-DMC-FX150,2008-07-21,390,highendcompact,"1/1.7""",14.7,28,18.4,9.6,101,1164,ptc/Panasonic_Lumix_DMC_FX150.csv
+Panasonic,Lumix DMC G1,Panasonic Lumix DMC G1,450,/Cameras/Panasonic/Lumix-DMC-G1,2008-09-12,790,hybrid,"4/3""",12.1,53,21.1,10.3,463,1406,ptc/Panasonic_Lumix_DMC_G1.csv
+Panasonic,Lumix DMC G10,Panasonic Lumix DMC G10,661,/Cameras/Panasonic/Lumix-DMC-G10,2010-03-07,600,hybrid,"4/3""",12.1,52,21.2,10.1,411,1777,ptc/Panasonic_Lumix_DMC_G10.csv
+Panasonic,Lumix DMC G2,Panasonic Lumix DMC G2,669,/Cameras/Panasonic/Lumix-DMC-G2,2010-03-07,599,hybrid,"4/3""",12.1,53,21.2,10.3,493,1778,ptc/Panasonic_Lumix_DMC_G2.csv
+Panasonic,Lumix DMC G3,Panasonic Lumix DMC G3,701,/Cameras/Panasonic/Lumix-DMC-G3,2011-05-12,599,hybrid,"4/3""",16,56,21,10.6,667,1771,ptc/Panasonic_Lumix_DMC_G3.csv
+Panasonic,Lumix DMC G5,Panasonic Lumix DMC G5,816,/Cameras/Panasonic/Lumix-DMC-G5,2012-07-18,650,hybrid,"4/3""",16.05,61,21.4,11.6,618,2020,ptc/Panasonic_Lumix_DMC_G5.csv
+Panasonic,Lumix DMC GF1,Panasonic Lumix DMC GF1,632,/Cameras/Panasonic/Lumix-DMC-GF1,2009-09-02,570,hybrid,"4/3""",12.1,54,21.2,10.3,513,1521,ptc/Panasonic_Lumix_DMC_GF1.csv
+Panasonic,Lumix DMC GF2,Panasonic Lumix DMC GF2,684,/Cameras/Panasonic/Lumix-DMC-GF2,2010-11-04,599,hybrid,"4/3""",12.1,54,21.2,10.3,506,1771,ptc/Panasonic_Lumix_DMC_GF2.csv
+Panasonic,Lumix DMC GF3,Panasonic Lumix DMC GF3,763,/Cameras/Panasonic/Lumix-DMC-GF3,2011-06-13,699,hybrid ,"4/3""",12.1,50,20.6,10.1,459,1771,ptc/Panasonic_Lumix_DMC_GF3.csv
+Panasonic,Lumix DMC GF5,Panasonic Lumix DMC GF5,799,/Cameras/Panasonic/Lumix-DMC-GF5,2012-04-05,599,hybrid,"4/3""",12.1,50,20.5,10,573,2020,ptc/Panasonic_Lumix_DMC_GF5.csv
+Panasonic,Lumix DMC GF6,Panasonic Lumix DMC GF6,872,/Cameras/Panasonic/Lumix-DMC-GF6,2013-04-09,680,hybrid,"4/3""",16,54,20.7,10.6,622,2268,ptc/Panasonic_Lumix_DMC_GF6.csv
+Panasonic,Lumix DMC GH1,Panasonic Lumix DMC GH1,630,/Cameras/Panasonic/Lumix-DMC-GH1,2009-03-03,880,hybrid,"4/3""",12.1,64,21.6,11.6,772,1527,ptc/Panasonic_Lumix_DMC_GH1.csv
+Panasonic,Lumix DMC GH2,Panasonic Lumix DMC GH2,677,/Cameras/Panasonic/Lumix-DMC-GH2,2010-09-21,1100,hybrid,"4/3""",16.05,60,21.2,11.3,655,2027,ptc/Panasonic_Lumix_DMC_GH2.csv
+Panasonic,Lumix DMC GX1,Panasonic Lumix DMC GX1,754,/Cameras/Panasonic/Lumix-DMC-GX1,2011-11-07,699,hybrid,"4/3""",16,55,20.8,10.6,703,2020,ptc/Panasonic_Lumix_DMC_GX1.csv
+Panasonic,Lumix DMC L10,Panasonic Lumix DMC L10,268,/Cameras/Panasonic/Lumix-DMC-L10,2007-08-30,964,entryleveldslr,"4/3""",10.1,55,21.3,10.8,429,1175,ptc/Panasonic_Lumix_DMC_L10.csv
+Panasonic,Lumix DMC LX10,Panasonic Lumix DMC LX10,1117,/Cameras/Panasonic/Lumix-DMC-LX10,2016-09-19,699,compact,"1""",20.1,70,22.8,12.5,581,2514,ptc/Panasonic_Lumix_DMC_LX10.csv
+Panasonic,Lumix DMC LX3,Panasonic Lumix DMC LX3,567,/Cameras/Panasonic/Lumix-DMC-LX3,2008-08-21,450,highendcompact,"1/1.7""",10.1,39,19.6,10.8,94,1636,ptc/Panasonic_Lumix_DMC_LX3.csv
+Panasonic,Lumix DMC LX5,Panasonic Lumix DMC LX5,683,/Cameras/Panasonic/Lumix-DMC-LX5,2010-07-21,470,highendcompact,"1/1.7""",10.1,41,19.6,10.8,132,1771,ptc/Panasonic_Lumix_DMC_LX5.csv
+Panasonic,Lumix DMC LX7,Panasonic Lumix DMC LX7,817,/Cameras/Panasonic/Lumix-DMC-LX7,2012-07-18,450,compact,"1/1.7""",10.1,50,20.7,11.7,147,2020,ptc/Panasonic_Lumix_DMC_LX7.csv
+Panasonic,Lumix DMC-FZ1000,Panasonic Lumix DMC-FZ1000,958,/Cameras/Panasonic/Lumix-DMC-FZ1000,2014-06-12,900,highendcompact,"1""",20.1,64,22.1,11.7,517,2515,ptc/Panasonic_Lumix_DMC_FZ1000.csv
+Panasonic,Lumix DMC-FZ2000,Panasonic Lumix DMC-FZ2000,1116,/Cameras/Panasonic/Lumix-DMC-FZ2000,2016-09-19,1200,highendcompact,"1""",20,70,23,12.6,538,2516,ptc/Panasonic_Lumix_DMC_FZ2000.csv
+Panasonic,Lumix DMC-FZ330,Panasonic Lumix DMC-FZ330,1040,/Cameras/Panasonic/Lumix-DMC-FZ330,2015-07-16,600,highendcompact,"1/2.3""",12.1,38,19.3,11,97,1771,ptc/Panasonic_Lumix_DMC_FZ330.csv
+Panasonic,Lumix DMC-FZ70,Panasonic Lumix DMC-FZ70,897,/Cameras/Panasonic/Lumix-DMC-FZ70,2013-07-18,399,compact,"1/2.3""",16.1,41,19.4,10.8,171,1521,ptc/Panasonic_Lumix_DMC_FZ70.csv
+Panasonic,Lumix DMC-G80,Panasonic Lumix DMC-G80,1118,/Cameras/Panasonic/Lumix-DMC-G80,2016-09-19,900,hybrid,"4/3""",16,71,22.8,12.5,656,2268,ptc/Panasonic_Lumix_DMC_G80.csv
+Panasonic,Lumix DMC-GH3,Panasonic Lumix DMC-GH3,842,/Cameras/Panasonic/Lumix-DMC-GH3,2012-09-17,1300,hybrid,"4/3""",16.05,71,22.7,12.4,812,2271,ptc/Panasonic_Lumix_DMC_GH3.csv
+Panasonic,Lumix DMC-GH4,Panasonic Lumix DMC-GH4,943,/Cameras/Panasonic/Lumix-DMC-GH4,2014-02-07,1700,hybrid,"4/3""",16,74,23.2,12.8,791,2268,ptc/Panasonic_Lumix_DMC_GH4.csv
+Panasonic,Lumix DMC-GM1,Panasonic Lumix DMC-GM1,920,/Cameras/Panasonic/Lumix-DMC-GM1,2013-10-17,600,hybrid,"4/3""",16,66,22.3,11.7,660,2268,ptc/Panasonic_Lumix_DMC_GM1.csv
+Panasonic,Lumix DMC-GM5,Panasonic Lumix DMC-GM5,979,/Cameras/Panasonic/Lumix-DMC-GM5,2014-09-15,650,hybrid,"4/3""",16,66,22.1,11.7,721,2268,ptc/Panasonic_Lumix_DMC_GM5.csv
+Panasonic,Lumix DMC-GX7,Panasonic Lumix DMC-GX7,901,/Cameras/Panasonic/Lumix-DMC-GX7,2013-08-01,999,hybrid,"4/3""",16,70,22.6,12.2,718,2268,ptc/Panasonic_Lumix_DMC_GX7.csv
+Panasonic,Lumix DMC-GX8,Panasonic Lumix DMC-GX8,1041,/Cameras/Panasonic/Lumix-DMC-GX8,2015-07-16,1200,hybrid,"4/3""",20.3,75,23.5,12.6,806,2269,ptc/Panasonic_Lumix_DMC_GX8.csv
+Panasonic,Lumix DMC-GX80,Panasonic Lumix DMC-GX80,1087,/Cameras/Panasonic/Lumix-DMC-GX80,2016-04-05,800,hybrid,"4/3""",16,71,22.9,12.6,662,2268,ptc/Panasonic_Lumix_DMC_GX80.csv
+Panasonic,Lumix DMC-LX100,Panasonic Lumix DMC-LX100,981,/Cameras/Panasonic/Lumix-DMC-LX100,2014-09-15,899,compact,"4/3""",12.8,67,22.3,12.5,553,2268,ptc/Panasonic_Lumix_DMC_LX100.csv
+Panasonic,Lumix DMC-ZS100,Panasonic Lumix DMC-ZS100,1064,/Cameras/Panasonic/Lumix-DMC-ZS100,2016-01-05,700,compact,"1""",20.1,70,22.8,12.5,559,2515,ptc/Panasonic_Lumix_DMC_ZS100.csv
+Panasonic,Lumix DMC-ZS50,Panasonic Lumix DMC-ZS50,999,/Cameras/Panasonic/Lumix-DMC-ZS50,2015-01-05,400,compact,"1/2.3""",12,44,20,11.2,138,2020,ptc/Panasonic_Lumix_DMC_ZS50.csv
+Panasonic,Lumix DMC-ZS60,Panasonic Lumix DMC-ZS60,1063,/Cameras/Panasonic/Lumix-DMC-ZS60,2016-01-05,450,compact,"1/2.3""",18.1,37,19.3,10.6,109,2020,ptc/Panasonic_Lumix_DMC_ZS60.csv
+Pentax,645D,Pentax 645D,668,/Cameras/Pentax/645D,2010-03-01,9400,professional,Medium Format,40,82,24.6,12.6,1262,1275,ptc/Pentax_645D.csv
+Pentax,645Z,Pentax 645Z,951,/Cameras/Pentax/645Z,2014-04-15,8499,professional,Medium Format,51.4,101,26,14.7,4505,3006,ptc/Pentax_645Z.csv
+Pentax,K 01,Pentax K 01,783,/Cameras/Pentax/K-01,2012-02-02,899,hybrid,APS-C,16.28,79,23.7,12.9,1135,2268,ptc/Pentax_K_01.csv
+Pentax,K-1,Pentax K-1,1075,/Cameras/Pentax/K-1,2016-02-17,1800,professional,Full Frame,36.4,96,25.4,14.6,3280,3006,ptc/Pentax_K_1.csv
+Pentax,K-3,Pentax K-3,914,/Cameras/Pentax/K-3,2013-10-08,1300,semiprodslr,APS-C,24,80,23.7,13.4,1216,2515,ptc/Pentax_K_3.csv
+Pentax,K-3 II,Pentax K-3 II,1026,/Cameras/Pentax/K-3-II,2015-04-23,1100,semiprodslr,APS-C,24.35,80,23.6,13.6,1106,2515,ptc/Pentax_K_3_II.csv
+Pentax,K-30,Pentax K-30,811,/Cameras/Pentax/K-30,2012-05-22,470,entryleveldslr,APS-C,16.3,79,23.7,13,1129,2268,ptc/Pentax_K_30.csv
+Pentax,K-5 II,Pentax K-5 II,829,/Cameras/Pentax/K-5-II,2012-09-11,999,semiprodslr,APS-C,16.3,82,23.8,14.1,1235,2761,ptc/Pentax_K_5_II.csv
+Pentax,K-5 IIs,Pentax K-5 IIs,830,/Cameras/Pentax/K-5-IIs,2012-09-11,1199,semiprodslr,APS-C,16.3,82,23.9,14.1,1208,2761,ptc/Pentax_K_5_IIs.csv
+Pentax,K-50,Pentax K-50,890,/Cameras/Pentax/K-50,2013-06-12,599,semiprodslr,APS-C,16.28,79,23.7,13,1120,2515,ptc/Pentax_K_50.csv
+Pentax,K-500,Pentax K-500,891,/Cameras/Pentax/K-500,2013-06-12,600,entryleveldslr,APS-C,16.28,79,23.7,13.1,1087,2515,ptc/Pentax_K_500.csv
+Pentax,K-S1,Pentax K-S1,971,/Cameras/Pentax/K-S1,2014-08-27,749,entryleveldslr,APS-C,20.12,78,23.5,13,1061,2515,ptc/Pentax_K_S1.csv
+Pentax,K10D,Pentax K10D,212,/Cameras/Pentax/K10D,2006-09-13,900,"entryleveldslr, semiprodslr",APS-C,10,66,22.7,11.6,522,1185,ptc/Pentax_K10D.csv
+Pentax,K200D,Pentax K200D,330,/Cameras/Pentax/K200D,2008-01-23,660,entryleveldslr,APS-C,10.2,64,22.4,11.4,561,1184,ptc/Pentax_K200D.csv
+Pentax,K20D,Pentax K20D,213,/Cameras/Pentax/K20D,2008-01-23,770,"entryleveldslr, semiprodslr",APS-C,14.6,65,22.9,11.1,639,1643,ptc/Pentax_K20D.csv
+Pentax,K5,Pentax K5,676,/Cameras/Pentax/K5,2010-09-20,1600,semiprodslr,APS-C,16.3,82,23.7,14.1,1162,2761,ptc/Pentax_K5.csv
+Pentax,K7,Pentax K7,615,/Cameras/Pentax/K7,2009-05-20,1900,semiprodslr,APS-C,14.6,61,22.6,10.6,536,1778,ptc/Pentax_K7.csv
+Pentax,KM,Pentax KM,577,/Cameras/Pentax/KM,2008-09-22,550,"entryleveldslr, semiprodslr",APS-C,10.2,64,22.4,11.4,513,1526,ptc/Pentax_KM.csv
+Pentax,Kr,Pentax Kr,672,/Cameras/Pentax/Kr,2010-10-09,700,entryleveldslr,APS-C,12.4,72,22.9,12.4,755,2275,ptc/Pentax_Kr.csv
+Pentax,Kx,Pentax Kx,639,/Cameras/Pentax/Kx,2009-09-17,640,entryleveldslr,APS-C,12.4,72,22.8,12.5,811,2028,ptc/Pentax_Kx.csv
+Pentax,MX-1,Pentax MX-1,854,/Cameras/Pentax/MX-1,2013-01-07,499,compact,"1/1.7""",12,49,20.4,11.3,208,2020,ptc/Pentax_MX_1.csv
+Pentax,Q,Pentax Q,722,/Cameras/Pentax/Q,2011-06-22,799,hybrid,"1/2.3""",12.4,47,20.2,11.1,189,1771,ptc/Pentax_Q.csv
+Pentax,Q10,Pentax Q10,828,/Cameras/Pentax/Q10,2012-09-11,499,hybrid,"1/2.3""",12.4,49,21.1,10.9,183,1771,ptc/Pentax_Q10.csv
+Phase One,IQ180 Digital Back,Phase One IQ180 Digital Back,746,/Cameras/Phase-One/IQ180-Digital-Back,2011-01-24,42490,professional,Medium Format,80,91,26.5,13.6,966,1513,ptc/Phase_One_IQ180_Digital_Back.csv
+Phase One,P40 Plus,Phase One P40 Plus,592,/Cameras/Phase-One/P40-Plus,2009-04-29,19500,professional,Medium Format,40,87,25.3,13,1307,1523,ptc/Phase_One_P40_Plus.csv
+Phase One,P45 Plus,Phase One P45 Plus,456,/Cameras/Phase-One/P45-Plus,2007-01-01,32990,professional,Medium Format,39,77,24.2,12.9,622,1186,ptc/Phase_One_P45_Plus.csv
+Phase One,P65 Plus,Phase One P65 Plus,579,/Cameras/Phase-One/P65-Plus,2008-07-14,39900,professional,Medium Format,60.5,89,26,13,1158,1522,ptc/Phase_One_P65_Plus.csv
+Pixii,A1571,Pixii A1571,1372,/Cameras/Pixii/A1571,2021-09-27,2999,highendcompact,APS-C,26,90,25.1,13.5,1939,2515,ptc/Pixii_A1571.csv
+Pixii,Max,Pixii Max,1389,/Cameras/Pixii/Max,2024-11-01,3999,highend,Full Frame,24.5,93,25.2,13.6,3108,2268,ptc/Pixii_Max.csv
+Ricoh,GR,Ricoh GR,874,/Cameras/Ricoh/GR,2013-04-17,799,highendcompact,APS-C,16.2,78,23.6,13.5,972,2268,ptc/Ricoh_GR.csv
+Ricoh,GR II,Ricoh GR II,1036,/Cameras/Ricoh/GR-II,2015-06-17,800,highendcompact,APS-C,16.2,80,23.6,13.7,1078,2268,ptc/Ricoh_GR_II.csv
+Samsung,EX1,Samsung EX1,666,/Cameras/Samsung/EX1,2010-02-20,450,compact,"1/1.7""",10,40,19.2,11.1,129,1778,ptc/Samsung_EX1.csv
+Samsung,EX2F,Samsung EX2F,815,/Cameras/Samsung/EX2F,2012-07-03,549,compact,"1/1.7""",12.4,48,20,11.5,209,1771,ptc/Samsung_EX2F.csv
+Samsung,GALAXY NX,Samsung GALAXY NX,900,/Cameras/Samsung/GALAXY-NX,2013-06-20,1300,hybrid,APS-C,20.3,75,23.4,12.3,910,2268,ptc/Samsung_GALAXY_NX.csv
+Samsung,GX 20,Samsung GX 20,526,/Cameras/Samsung/GX-20,2008-01-24,1060,"entryleveldslr, semiprodslr",APS-C,14.6,68,23.1,11.2,714,1649,ptc/Samsung_GX_20.csv
+Samsung,Galaxy S6 Edge,Samsung Galaxy S6 Edge,1054,/Cameras/Samsung/Galaxy-S6-Edge,2015-03-01,600,smartphone,-,16,25,18.6,10.1,36,1521,ptc/Samsung_Galaxy_S6_Edge.csv
+Samsung,NX 10,Samsung NX 10,660,/Cameras/Samsung/NX-10,2010-01-04,610,hybrid,APS-C,14.6,63,22.8,10.8,572,1525,ptc/Samsung_NX_10.csv
+Samsung,NX 100,Samsung NX 100,662,/Cameras/Samsung/NX-100,2010-09-14,499,hybrid,APS-C,14.6,62,22.6,10.7,563,1777,ptc/Samsung_NX_100.csv
+Samsung,NX 1000,Samsung NX 1000,804,/Cameras/Samsung/NX-1000,2012-04-19,749,hybrid,APS-C,20.3,72,22.8,12.4,840,2020,ptc/Samsung_NX_1000.csv
+Samsung,NX 11,Samsung NX 11,689,/Cameras/Samsung/NX-11,2010-12-28,649,hybrid,APS-C,14.6,63,22.7,10.8,553,1521,ptc/Samsung_NX_11.csv
+Samsung,NX 20,Samsung NX 20,802,/Cameras/Samsung/NX-20,2012-04-19,719,hybrid,APS-C,20.3,75,23.4,12.9,785,2020,ptc/Samsung_NX_20.csv
+Samsung,NX 200,Samsung NX 200,741,/Cameras/Samsung/NX-200,2011-09-01,899,hybrid,APS-C,20.3,69,22.6,12.6,618,2020,ptc/Samsung_NX_200.csv
+Samsung,NX 210,Samsung NX 210,805,/Cameras/Samsung/NX-210,2012-04-19,899,hybrid,APS-C,20.3,71,22.8,12.5,719,2020,ptc/Samsung_NX_210.csv
+Samsung,NX 30,Samsung NX 30,931,/Cameras/Samsung/NX-30,2014-01-02,1000,hybrid,APS-C,20,76,23.5,12.4,1014,2268,ptc/Samsung_NX_30.csv
+Samsung,NX 300,Samsung NX 300,851,/Cameras/Samsung/NX-300,2013-01-03,750,hybrid,APS-C,20.3,76,23.6,12.7,942,2268,ptc/Samsung_NX_300.csv
+Samsung,NX1,Samsung NX1,976,/Cameras/Samsung/NX1,2014-09-15,1500,hybrid,APS-C,28.2,83,24.2,13.2,1363,2515,ptc/Samsung_NX1.csv
+Samsung,NX1100,Samsung NX1100,873,/Cameras/Samsung/NX1100,2013-04-11,600,hybrid,APS-C,20.3,73,23,12.5,852,2020,ptc/Samsung_NX1100.csv
+Samsung,NX2000,Samsung NX2000,882,/Cameras/Samsung/NX2000,2013-05-01,649,hybrid,APS-C,20.3,75,23.4,12.3,908,2268,ptc/Samsung_NX2000.csv
+Samsung,NX500,Samsung NX500,1007,/Cameras/Samsung/NX500,2015-02-05,800,hybrid,APS-C,28,87,24.8,13.9,1379,2515,ptc/Samsung_NX500.csv
+Sony,A1,Sony A1,1365,/Cameras/Sony/A1,2021-01-26,6499,hybrid,Full Frame,50.1,98,25.9,14.5,3163,3006,ptc/Sony_A1.csv
+Sony,A3000,Sony A3000,906,/Cameras/Sony/A3000,2013-08-27,400,hybrid,APS-C,20.1,78,23.7,12.8,1068,2268,ptc/Sony_A3000.csv
+Sony,A5000,Sony A5000,929,/Cameras/Sony/A5000,2014-01-07,500,hybrid,APS-C,20,79,23.8,13,1089,2268,ptc/Sony_A5000.csv
+Sony,A5100,Sony A5100,967,/Cameras/Sony/A5100,2014-08-18,550,hybrid,APS-C,24.3,80,23.8,12.7,1347,2268,ptc/Sony_A5100.csv
+Sony,A6000,Sony A6000,942,/Cameras/Sony/A6000,2014-02-12,799,hybrid,APS-C,24.3,82,24.1,13.1,1347,2268,ptc/Sony_A6000.csv
+Sony,A6300,Sony A6300,1072,/Cameras/Sony/A6300,2016-02-03,1000,hybrid,APS-C,24.2,85,24.4,13.7,1437,2515,ptc/Sony_A6300.csv
+Sony,A6400,Sony A6400,1281,/Cameras/Sony/A6400,2019-01-15,900,hybrid,APS-C,24.2,83,24,13.6,1431,2761,ptc/Sony_A6400.csv
+Sony,A6500,Sony A6500,1127,/Cameras/Sony/A6500,2016-10-06,1400,hybrid,APS-C,24.2,85,24.5,13.7,1405,2515,ptc/Sony_A6500.csv
+Sony,A6600,Sony A6600,1347,/Cameras/Sony/A6600,2019-08-28,1200,hybrid,APS-C,24.2,82,23.8,13.4,1497,3006,ptc/Sony_A6600.csv
+Sony,A7,Sony A7,916,/Cameras/Sony/A7,2013-10-16,1700,hybrid,Full Frame,24,90,24.8,14.2,2248,2259,ptc/Sony_A7.csv
+Sony,A7 II,Sony A7 II,996,/Cameras/Sony/A7-II,2014-11-20,1600,hybrid,Full Frame,24.3,90,24.9,13.6,2449,2514,ptc/Sony_A7_II.csv
+Sony,A7 III,Sony A7 III,1236,/Cameras/Sony/A7-III,2018-02-27,2000,hybrid,Full Frame,24.2,96,25.1,14.7,3722,3250,ptc/Sony_A7_III.csv
+Sony,A7C,Sony A7C,1356,/Cameras/Sony/A7C,2020-11-01,1799,hybrid,Full Frame,24.2,95,25,14.7,3407,3250,ptc/Sony_A7C.csv
+Sony,A7IV,Sony A7IV,1376,/Cameras/Sony/A7IV,2021-12-23,2800,professional,Full Frame,33,97,25.4,14.7,3379,3250,ptc/Sony_A7IV.csv
+Sony,A7R,Sony A7R,917,/Cameras/Sony/A7R,2013-10-16,2300,hybrid,Full Frame,36,95,25.6,14.1,2746,2515,ptc/Sony_A7R.csv
+Sony,A7R II,Sony A7R II,1035,/Cameras/Sony/A7R-II,2015-06-10,3198,hybrid,Full Frame,42.4,98,26,13.9,3434,3006,ptc/Sony_A7R_II.csv
+Sony,A7R III,Sony A7R III,1187,/Cameras/Sony/A7R-III,2017-10-25,3200,hybrid,Full Frame,42.4,100,26,14.7,3523,3006,ptc/Sony_A7R_III.csv
+Sony,A7R IV,Sony A7R IV,1326,/Cameras/Sony/A7R-IV,2019-07-16,3500,hybrid,Full Frame,61.2,99,26,14.8,3344,3005,ptc/Sony_A7R_IV.csv
+Sony,A7R V,Sony A7R V,1385,/Cameras/Sony/A7R-V,2022-10-26,3900,professional,Full Frame,60,100,26.1,14.8,3187,3006,ptc/Sony_A7R_V.csv
+Sony,A7S,Sony A7S,949,/Cameras/Sony/A7S,2014-04-06,2499,hybrid,Full Frame,12.2,87,23.9,13.2,3702,3493,ptc/Sony_A7S.csv
+Sony,A7S II,Sony A7S II,1047,/Cameras/Sony/A7S-II,2015-09-11,3000,hybrid,Full Frame,12.2,85,23.6,13.3,2993,3250,ptc/Sony_A7S_II.csv
+Sony,A7SIII,Sony A7SIII,1357,/Cameras/Sony/A7SIII,2020-07-28,3499,hybrid,Full Frame,12.1,86,23.7,13.9,2520,3494,ptc/Sony_A7SIII.csv
+Sony,A9 III,Sony A9 III,1390,/Cameras/Sony/A9-III,2023-11-08,5999,full-frame mirrorless interchangeable lens camera,Full Frame,24.6,87,24.1,13,3224,2515,ptc/Sony_A9_III.csv
+Sony,Alpha 100,Sony Alpha 100,216,/Cameras/Sony/Alpha-100,2006-06-05,427,entryleveldslr,APS-C,10,61,22,11.2,476,1177,ptc/Sony_Alpha_100.csv
+Sony,Alpha 200,Sony Alpha 200,342,/Cameras/Sony/Alpha-200,2008-01-07,611,entryleveldslr,APS-C,10.2,63,22.3,11.3,521,1411,ptc/Sony_Alpha_200.csv
+Sony,Alpha 230,Sony Alpha 230,605,/Cameras/Sony/Alpha-230,2009-05-18,900,entryleveldslr,APS-C,10.2,63,22.3,11.4,531,1527,ptc/Sony_Alpha_230.csv
+Sony,Alpha 290,Sony Alpha 290,657,/Cameras/Sony/Alpha-290,2010-06-01,499,entryleveldslr,APS-C,14.2,66,22.6,11.5,615,1527,ptc/Sony_Alpha_290.csv
+Sony,Alpha 300,Sony Alpha 300,341,/Cameras/Sony/Alpha-300,2008-01-30,690,"entryleveldslr, semiprodslr",APS-C,10.2,64,22.5,11.4,538,1414,ptc/Sony_Alpha_300.csv
+Sony,Alpha 330,Sony Alpha 330,606,/Cameras/Sony/Alpha-330,2009-05-18,780,"entryleveldslr, semiprodslr",APS-C,10.2,64,22.4,11.5,535,1527,ptc/Sony_Alpha_330.csv
+Sony,Alpha 350,Sony Alpha 350,217,/Cameras/Sony/Alpha-350,2008-01-30,700,"entryleveldslr, semiprodslr",APS-C,14.2,65,22.6,11.5,595,1411,ptc/Sony_Alpha_350.csv
+Sony,Alpha 380,Sony Alpha 380,607,/Cameras/Sony/Alpha-380,2009-05-18,935,"entryleveldslr, semiprodslr",APS-C,14.2,67,22.6,11.8,614,1526,ptc/Sony_Alpha_380.csv
+Sony,Alpha 390,Sony Alpha 390,670,/Cameras/Sony/Alpha-390,2010-06-09,620,"entryleveldslr, semiprodslr",APS-C,14.2,66,22.5,11.5,607,1525,ptc/Sony_Alpha_390.csv
+Sony,Alpha 450,Sony Alpha 450,641,/Cameras/Sony/Alpha-450,2010-01-05,680,entryleveldslr,APS-C,14.2,66,21.8,11.8,769,1778,ptc/Sony_Alpha_450.csv
+Sony,Alpha 500,Sony Alpha 500,626,/Cameras/Sony/Alpha-500,2009-08-27,699,"entryleveldslr, semiprodslr",APS-C,12.3,64,21.8,11.6,772,1778,ptc/Sony_Alpha_500.csv
+Sony,Alpha 550,Sony Alpha 550,624,/Cameras/Sony/Alpha-550,2009-08-27,899,"entryleveldslr, semiprodslr",APS-C,14.2,66,21.9,11.8,807,1778,ptc/Sony_Alpha_550.csv
+Sony,Alpha 560,Sony Alpha 560,686,/Cameras/Sony/Alpha-560,2010-08-24,650,"entryleveldslr, semiprodslr",APS-C,14.2,70,22.5,12.3,817,2020,ptc/Sony_Alpha_560.csv
+Sony,Alpha 580,Sony Alpha 580,685,/Cameras/Sony/Alpha-580,2010-08-24,800,"entryleveldslr, semiprodslr",APS-C,16.2,80,23.8,13.3,1121,2020,ptc/Sony_Alpha_580.csv
+Sony,Alpha 700,Sony Alpha 700,562,/Cameras/Sony/Alpha-700,2007-09-06,1300,semiprodslr,APS-C,12.2,66,22.3,11.9,581,1655,ptc/Sony_Alpha_700.csv
+Sony,Alpha 850,Sony Alpha 850,604,/Cameras/Sony/Alpha-850,2009-08-27,2000,"entryleveldslr, semiprodslr",Full Frame,24.6,79,23.8,12.2,1415,1778,ptc/Sony_Alpha_850.csv
+Sony,Alpha 900,Sony Alpha 900,371,/Cameras/Sony/Alpha-900,2008-09-09,3000,professional,Full Frame,24.6,79,23.7,12.3,1431,1655,ptc/Sony_Alpha_900.csv
+Sony,Cyber-shot DSC RX100 III,Sony Cyber-shot DSC RX100 III,957,/Cameras/Sony/Cyber-shot-DSC-RX100-III,2014-05-16,800,highendcompact,"1""",20.1,67,22.4,12.3,495,2268,ptc/Sony_Cyber_shot_DSC_RX100_III.csv
+Sony,Cyber-shot DSC-RX1,Sony Cyber-shot DSC-RX1,833,/Cameras/Sony/Cyber-shot-DSC-RX1,2012-09-12,2800,highendcompact,Full Frame,24.3,93,25.1,14.3,2534,2259,ptc/Sony_Cyber_shot_DSC_RX1.csv
+Sony,Cyber-shot DSC-RX10,Sony Cyber-shot DSC-RX10,918,/Cameras/Sony/Cyber-shot-DSC-RX10,2013-10-16,1300,highendcompact,"1""",20,69,22.9,12.6,474,2268,ptc/Sony_Cyber_shot_DSC_RX10.csv
+Sony,Cyber-shot DSC-RX10 II,Sony Cyber-shot DSC-RX10 II,1034,/Cameras/Sony/Cyber-shot-DSC-RX10-II,2015-06-10,1298,highendcompact,"1""",20.2,70,23,12.6,531,2268,ptc/Sony_Cyber_shot_DSC_RX10_II.csv
+Sony,Cyber-shot DSC-RX100,Sony Cyber-shot DSC-RX100,812,/Cameras/Sony/Cyber-shot-DSC-RX100,2012-06-06,650,highendcompact,"1""",20.2,66,22.6,12.4,390,2020,ptc/Sony_Cyber_shot_DSC_RX100.csv
+Sony,Cyber-shot DSC-RX100 II,Sony Cyber-shot DSC-RX100 II,896,/Cameras/Sony/Cyber-shot-DSC-RX100-II,2013-06-27,750,highendcompact,"1""",20.2,67,22.5,12.4,483,2020,ptc/Sony_Cyber_shot_DSC_RX100_II.csv
+Sony,Cyber-shot DSC-RX100 IV,Sony Cyber-shot DSC-RX100 IV,1033,/Cameras/Sony/Cyber-shot-DSC-RX100-IV,2015-06-10,948,highendcompact,"1""",20.1,70,22.9,12.6,562,2268,ptc/Sony_Cyber_shot_DSC_RX100_IV.csv
+Sony,Cyber-shot DSC-RX100 V,Sony Cyber-shot DSC-RX100 V,1128,/Cameras/Sony/Cyber-shot-DSC-RX100-V,2016-10-06,1000,highendcompact,"1""",20.1,70,22.8,12.4,586,2268,ptc/Sony_Cyber_shot_DSC_RX100_V.csv
+Sony,Cyber-shot DSC-RX100 VII,Sony Cyber-shot DSC-RX100 VII,1336,/Cameras/Sony/Cyber-shot-DSC-RX100-VII,2019-07-25,1200,highendcompact,"1""",20.1,63,21.8,12.4,418,2267,ptc/Sony_Cyber_shot_DSC_RX100_VII.csv
+Sony,Cyber-shot DSC-RX1R,Sony Cyber-shot DSC-RX1R,894,/Cameras/Sony/Cyber-shot-DSC-RX1R,2013-06-27,2800,highendcompact,Full Frame,24.3,91,25,13.6,2537,2259,ptc/Sony_Cyber_shot_DSC_RX1R.csv
+Sony,Cyber-shot DSC-RX1R II,Sony Cyber-shot DSC-RX1R II,1049,/Cameras/Sony/Cyber-shot-DSC-RX1R-II,2015-10-14,3300,highendcompact,Full Frame,42.4,97,25.8,13.9,3204,3005,ptc/Sony_Cyber_shot_DSC_RX1R_II.csv
+Sony,Cybershot DSC-RX10 III,Sony Cybershot DSC-RX10 III,1084,/Cameras/Sony/Cybershot-DSC-RX10-III,2016-03-29,1500,highendcompact,"1""",20.1,70,23.1,12.6,472,2268,ptc/Sony_Cybershot_DSC_RX10_III.csv
+Sony,DSC-RX0,Sony DSC-RX0,1238,/Cameras/Sony/DSC-RX0,2017-07-31,700,compact,"1""",15.3,68,22.4,12.4,548,2268,ptc/Sony_DSC_RX0.csv
+Sony,NEX-3N,Sony NEX-3N,863,/Cameras/Sony/NEX-3N,2013-02-20,670,hybrid,APS-C,16,74,22.8,12.5,1067,2020,ptc/Sony_NEX_3N.csv
+Sony,NEX-5N,Sony NEX-5N,737,/Cameras/Sony/NEX-5N,2011-08-24,860,hybrid,APS-C,16.1,77,23.6,12.7,1079,2268,ptc/Sony_NEX_5N.csv
+Sony,NEX-5R,Sony NEX-5R,826,/Cameras/Sony/NEX-5R,2012-08-29,650,hybrid,APS-C,16.1,78,23.7,13.1,910,2268,ptc/Sony_NEX_5R.csv
+Sony,NEX-5T,Sony NEX-5T,905,/Cameras/Sony/NEX-5T,2013-08-27,549,hybrid,APS-C,16.1,78,23.6,13,1015,2268,ptc/Sony_NEX_5T.csv
+Sony,NEX-6,Sony NEX-6,832,/Cameras/Sony/NEX-6,2012-09-12,848,hybrid,APS-C,16.1,78,23.7,13.1,1018,2268,ptc/Sony_NEX_6.csv
+Sony,NEX-7,Sony NEX-7,736,/Cameras/Sony/NEX-7,2011-08-24,1720,hybrid,APS-C,24.3,81,24.1,13.4,1016,2268,ptc/Sony_NEX_7.csv
+Sony,NEX-C3,Sony NEX-C3,715,/Cameras/Sony/NEX-C3,2011-06-08,770,hybrid,APS-C,16.2,73,22.7,12.2,1083,1771,ptc/Sony_NEX_C3.csv
+Sony,NEX-F3,Sony NEX-F3,808,/Cameras/Sony/NEX-F3,2012-05-17,600,hybrid,APS-C,16.1,73,22.7,12.3,1114,2020,ptc/Sony_NEX_F3.csv
+Sony,NEX3,Sony NEX3,651,/Cameras/Sony/NEX3,2010-05-01,550,hybrid,APS-C,14.2,68,22.1,12,830,1778,ptc/Sony_NEX3.csv
+Sony,NEX5,Sony NEX5,652,/Cameras/Sony/NEX5,2010-05-01,650,hybrid,APS-C,14.16,69,22.2,12.2,796,1777,ptc/Sony_NEX5.csv
+Sony,SLT Alpha 33,Sony SLT Alpha 33,673,/Cameras/Sony/SLT-Alpha-33,2010-08-24,599,entryleveldslr,APS-C,14.2,70,22.8,12.6,591,2027,ptc/Sony_SLT_Alpha_33.csv
+Sony,SLT Alpha 35,Sony SLT Alpha 35,716,/Cameras/Sony/SLT-Alpha-35,2011-06-08,600,entryleveldslr,APS-C,16,74,23.3,12.7,763,2020,ptc/Sony_SLT_Alpha_35.csv
+Sony,SLT Alpha 37,Sony SLT Alpha 37,809,/Cameras/Sony/SLT-Alpha-37,2012-05-17,500,entryleveldslr,APS-C,16,75,23.3,12.9,799,2268,ptc/Sony_SLT_Alpha_37.csv
+Sony,SLT Alpha 55,Sony SLT Alpha 55,675,/Cameras/Sony/SLT-Alpha-55,2010-08-24,750,"entryleveldslr, semiprodslr",APS-C,16.2,73,23,12.4,816,2028,ptc/Sony_SLT_Alpha_55.csv
+Sony,SLT Alpha 57,Sony SLT Alpha 57,798,/Cameras/Sony/SLT-Alpha-57,2012-03-12,700,none,APS-C,16.1,75,23.4,13,785,2268,ptc/Sony_SLT_Alpha_57.csv
+Sony,SLT Alpha 58,Sony SLT Alpha 58,864,/Cameras/Sony/SLT-Alpha-58,2013-02-20,735,entryleveldslr,APS-C,20.1,74,23.3,12.5,753,2268,ptc/Sony_SLT_Alpha_58.csv
+Sony,SLT Alpha 65,Sony SLT Alpha 65,735,/Cameras/Sony/SLT-Alpha-65,2011-08-24,1290,"entryleveldslr, semiprodslr",APS-C,24.3,74,23.4,12.6,717,2268,ptc/Sony_SLT_Alpha_65.csv
+Sony,SLT Alpha 68,Sony SLT Alpha 68,1055,/Cameras/Sony/SLT-Alpha-68,2015-11-05,600,semiprodslr,APS-C,24,79,24.1,13.5,701,2268,ptc/Sony_SLT_Alpha_68.csv
+Sony,SLT Alpha 77,Sony SLT Alpha 77,734,/Cameras/Sony/SLT-Alpha-77,2011-08-24,1399,semiprodslr,APS-C,24.3,78,24,13.2,801,2512,ptc/Sony_SLT_Alpha_77.csv
+Sony,SLT Alpha 77 II,Sony SLT Alpha 77 II,953,/Cameras/Sony/SLT-Alpha-77-II,2014-05-01,1200,semiprodslr,APS-C,24.3,82,24.4,13.4,1013,2515,ptc/Sony_SLT_Alpha_77_II.csv
+Sony,SLT Alpha 99,Sony SLT Alpha 99,831,/Cameras/Sony/SLT-Alpha-99,2012-09-12,2800,semiprodslr,Full Frame,24.3,89,25,14,1555,2515,ptc/Sony_SLT_Alpha_99.csv
+Sony,SLT Alpha 99 II,Sony SLT Alpha 99 II,1120,/Cameras/Sony/SLT-Alpha-99-II,2016-09-19,3200,semiprodslr,Full Frame,42.4,92,25.4,13.4,2317,3006,ptc/Sony_SLT_Alpha_99_II.csv
+Sony,a9,Sony a9,1162,/Cameras/Sony/a9,2017-04-19,4500,professional,Full Frame,24.2,92,24.9,13.3,3517,3250,ptc/Sony_a9.csv
+Sony,a9 II,Sony a9 II,1346,/Cameras/Sony/a9-II,2019-10-03,4500,hybrid,Full Frame,24.2,93,25,14,3434,3251,ptc/Sony_a9_II.csv
+YUNEEC,Breeze 4K,YUNEEC Breeze 4K,1152,/Cameras/YUNEEC/Breeze-4K,2016-08-30,380,drone,-,13,34,19,10.7,69,2020,ptc/YUNEEC_Breeze_4K.csv
