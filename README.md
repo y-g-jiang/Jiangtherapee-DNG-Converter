@@ -212,6 +212,3 @@ https://github.com/y-g-jiang/Support_Me_QR_Code
 
 **图例**：像素 ✅ 逐样本与 ADC 相同 ｜ △ 整体偏移后相同或仅差 ADC 插值的坏点 ｜ ✗ 不一致或解码失败；私有数据 ✅ `0xC634` 逐字节相同 ｜ ✗ 不同 ｜ — ADC 有而我们没有（源文件无可拷贝数据） ｜ n/a 该文件无法解码（LibRaw 拒收），不产出 DNG
 
-## PTC
-
-[PTC binding, units and JDN integration](PTC_BINDING.md)
