@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+/work/
+/build/
+/ref/camera_db.json
+*.log
+.DS_Store

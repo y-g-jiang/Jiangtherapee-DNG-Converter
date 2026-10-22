@@ -1,0 +1,12 @@
+{
+  "artifact": "srhq_joraw2.dll",
+  "buildId": "libraw-0.22.2+nikon-he-499bfd4/native-v1",
+  "librawVersion": "0.22.2",
+  "librawCommit": "b93f6e45c194f5df9b02a43b1af9a54b4f41f33f",
+  "nikonHeHead": "499bfd4cbf802c2fb5eac4c9a6f53bbeb776cad1",
+  "workers": 12,
+  "sourcePatchSha256": "FD3DEF1540AF46E31A6B4515338A153BB43D45C089BA0FCF0D1F71323BB698DC",
+  "bridgeSha256": "7AE0984F1464308D0F7A7061A0E3180CCCFA840844CE88720D6A3B424393E5D6",
+  "dllSha256": "2F8D9C6EC2842076B3D19D94E87C2533C5B1AA226ADAFB17CFE10E9CF45D936F",
+  "builtAtUtc": "2026-08-27T23:01:05.9621221Z"
+}
