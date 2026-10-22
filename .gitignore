@@ -5,3 +5,10 @@ __pycache__/
 /ref/camera_db.json
 *.log
 .DS_Store
+
+# Private calibration belongs to the JDN product, not this converter.
+/tools/ptc.py
+/ref/ptc*.csv
+/ref/models.csv
+/ref/PTC_SOURCE.json
+/PTC_BINDING.md
